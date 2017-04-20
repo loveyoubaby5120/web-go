@@ -2,8 +2,9 @@ package main
 
 import (
 	"fmt"
+	"web-go/cmd/mymath"
 )
 
 func main() {
-	fmt.Println("aaaaaaaaa")
+	fmt.Printf("Hello, world.  Sqrt(2) = %v\n", mymath.Sqrt(2))
 }
