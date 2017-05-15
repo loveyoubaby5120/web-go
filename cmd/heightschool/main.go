@@ -6,11 +6,12 @@ import (
 )
 
 type Condition struct {
-	enroll_num int
-	avg_score  int
-	low_score  int
-	rank       int
-	major      string
+	enrollNum   int
+	avgScore    int
+	lowScore    int
+	rank        int
+	major       string
+	enrollScore []int
 }
 
 func main() {
@@ -25,17 +26,40 @@ func main() {
 		// return nil, err
 	}
 
-	jsonMap := []map[string]interface{}{}
+	jsonMap := []Condition{}
 
 	for _, value := range scoreCondition {
 		fmt.Println(value)
+		fmt.Println(value["enroll_num"])
 		var json Condition
-		json.enroll_num = value["enroll_num"]
-		json.avg_score = value["avg_score"]
-		json.low_score = value["low_score"]
-		json.rank = value["rank"]
-		json.major = value["major"]
-		jsonMap := append(jsonMap, value)
+		switch v := value["enroll_num"].(type) {
+		case int:
+			json.enrollNum = v
+		}
+
+		switch v := value["avg_score"].(type) {
+		case int:
+			json.avgScore = v
+		}
+
+		switch v := value["low_score"].(type) {
+		case int:
+			json.lowScore = v
+		}
+
+		switch v := value["rank"].(type) {
+		case int:
+			json.rank = v
+		}
+
+		switch v := value["major"].(type) {
+		case string:
+			json.major = v
+		}
+		var enrollScore []int
+		json.enrollScore = enrollScore
+		jsonMap := append(jsonMap, json)
+		fmt.Println(jsonMap)
 		break
 	}
 
