@@ -47,3 +47,25 @@ func ReadToString(b []byte, format string) ([][][]string, error) {
 	}
 	return data, nil
 }
+
+func ReadToJson(file string) {
+	excelFileName := file
+	// excelFileName := "static/predict_num_v2/constrain/文一批.xlsx"
+	xlFile, err := xlsx.OpenFile(excelFileName)
+	if err != nil {
+		fmt.Printf("error: %s", err)
+	}
+	json := []map[string]string{}
+	for _, sheet := range xlFile.Sheets {
+		for _, row := range sheet.Rows {
+			for _, cell := range row.Cells {
+				text, _ := cell.String()
+				json = append(json, map[string]string{
+					"cell": "cell",
+				})
+				fmt.Printf("%s\n", text)
+			}
+		}
+	}
+	fmt.Println(json)
+}
