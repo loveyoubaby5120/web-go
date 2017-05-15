@@ -48,7 +48,7 @@ func ReadToString(b []byte, format string) ([][][]string, error) {
 	return data, nil
 }
 
-func ReadToJson(file string) {
+func ReadToJson(file string) []map[string]string {
 	excelFileName := file
 	// excelFileName := "static/predict_num_v2/constrain/文一批.xlsx"
 	xlFile, err := xlsx.OpenFile(excelFileName)
@@ -68,4 +68,5 @@ func ReadToJson(file string) {
 		}
 	}
 	fmt.Println(json)
+	return json
 }
