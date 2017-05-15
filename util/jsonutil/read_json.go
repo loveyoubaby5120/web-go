@@ -1,4 +1,4 @@
-package json
+package jsonutil
 
 import (
 	"encoding/json"
@@ -6,19 +6,19 @@ import (
 	"io/ioutil"
 )
 
-var array = []int{}
+var mapJson = map[string]string{}
 
-func readFileArray(filename string) ([]int, error) {
+func ReadFileJson(filename string) (map[string]string, error) {
 	bytes, err := ioutil.ReadFile(filename)
 	if err != nil {
 		fmt.Println("ReadFile: ", err.Error())
 		return nil, err
 	}
 
-	if err := json.Unmarshal(bytes, &array); err != nil {
+	if err := json.Unmarshal(bytes, &mapJson); err != nil {
 		fmt.Println("Unmarshal: ", err.Error())
 		return nil, err
 	}
 
-	return array, nil
+	return mapJson, nil
 }
