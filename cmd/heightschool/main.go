@@ -3,21 +3,12 @@ package main
 import (
 	"encoding/json"
 	"fmt"
+	"web-go/util/format"
 	"web-go/util/jsonutil"
 )
 
-type Condition struct {
-	enrollNum   int
-	avgScore    int
-	lowScore    int
-	rank        int
-	major       string
-	enrollScore []int
-	isSuccess   bool
-}
-
 var (
-	jsonArray      []Condition
+	jsonArray      []format.Condition
 	scoreCondition []map[string]interface{}
 	scoreArray     []int
 )
@@ -50,13 +41,13 @@ func main() {
 			enrollScore = append(enrollScore, 0)
 		}
 
-		jsonC := &Condition{
-			enrollNum:   enrollNum,
-			avgScore:    int(value["avg_score"].(float64)),
-			lowScore:    int(value["low_score"].(float64)),
-			rank:        int(value["rank"].(float64)),
-			major:       value["major"].(string),
-			enrollScore: enrollScore,
+		jsonC := &format.Condition{
+			EnrollNum:   enrollNum,
+			AvgScore:    int(value["avg_score"].(float64)),
+			LowScore:    int(value["low_score"].(float64)),
+			Rank:        int(value["rank"].(float64)),
+			Major:       value["major"].(string),
+			EnrollScore: enrollScore,
 		}
 
 		jsonArray = append(jsonArray, *jsonC)
@@ -69,7 +60,7 @@ func main() {
 	if err != nil {
 		fmt.Println(err)
 	}
-	fmt.Println(jsonArray)
+	fmt.Println("******************华丽的分割线******************")
 	jsonutil.WriteJson("static/predict_num_v2/文一批.json", outJsonArray)
 
 }

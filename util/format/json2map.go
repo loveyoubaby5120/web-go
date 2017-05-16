@@ -1,4 +1,4 @@
-package map2json2map
+package format
 
 import (
 	"encoding/json"

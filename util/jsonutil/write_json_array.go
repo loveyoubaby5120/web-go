@@ -90,7 +90,7 @@ func WriteJson(filename string, wireteJson []byte) error {
 }
 
 func WriteJson2(filename string, wireteJson []byte) error {
-	err := ioutil.WriteFile("filename", wireteJson, 0666) //写入文件(字节数组)
+	err := ioutil.WriteFile(filename, wireteJson, 0666) //写入文件(字节数组)
 	check(err)
 	return err
 }
