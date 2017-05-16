@@ -3,6 +3,7 @@ package main
 import (
 	"fmt"
 	"web-go/util/jsonutil"
+	"web-go/util/map2json2map"
 )
 
 type Condition struct {
@@ -26,45 +27,36 @@ func main() {
 		// return nil, err
 	}
 
-	jsonMap := []Condition{}
+	// jsonArray := []Condition{}
 
 	for _, value := range scoreCondition {
-		fmt.Println(value)
-		fmt.Println(value["enroll_num"])
-		var json Condition
-		switch v := value["enroll_num"].(type) {
-		case int:
-			json.enrollNum = v
-		}
+		fmt.Println(map2json2map.Map2json(value))
+		// fmt.Println(value)
 
-		switch v := value["avg_score"].(type) {
-		case int:
-			json.avgScore = v
-		}
+		// var jsonC Condition
+		// jsonC.enrollNum = int(value["enroll_num"].(float64))
+		// jsonC.avgScore = int(value["avg_score"].(float64))
+		// jsonC.lowScore = int(value["low_score"].(float64))
+		// jsonC.rank = int(value["rank"].(float64))
+		// jsonC.major = value["major"].(string)
 
-		switch v := value["low_score"].(type) {
-		case int:
-			json.lowScore = v
-		}
+		// var enrollScore []int
+		// for i := 0; i < jsonC.enrollNum; i++ {
+		// 	enrollScore = append(enrollScore, 0)
+		// }
 
-		switch v := value["rank"].(type) {
-		case int:
-			json.rank = v
-		}
-
-		switch v := value["major"].(type) {
-		case string:
-			json.major = v
-		}
-		var enrollScore []int
-		json.enrollScore = enrollScore
-		jsonMap := append(jsonMap, json)
-		fmt.Println(jsonMap)
+		// jsonC.enrollScore = enrollScore
+		// fmt.Println(jsonC)
+		// jsonArray := append(jsonArray, jsonC)
+		// fmt.Println(len(jsonArray[0].enrollScore))
 		break
 	}
+}
 
-	fmt.Printf("111")
-
-	// fmt.Println(scoreArray)
-	// fmt.Println(scoreCondition)
+func Sum(enrollScore []int) int {
+	total := 0
+	for _, value := range enrollScore {
+		total += value
+	}
+	return total
 }
