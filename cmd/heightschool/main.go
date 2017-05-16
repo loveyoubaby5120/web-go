@@ -14,7 +14,7 @@ var (
 )
 
 func main() {
-	_, _, _ = GetData()
+	// _, _, _ = GetData()
 	// for i := 0; i < 10; i++ {
 	// 	fmt.Println(rand.Intn(100))
 	// }
@@ -34,7 +34,6 @@ func WriteScore(s interface{}) {
 		fmt.Println(err)
 	}
 	jsonutil.WriteJSON("static/predict_num_v2/文一批.json", outJSONArray)
-
 }
 
 // GetData get hight school config
