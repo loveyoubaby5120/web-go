@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil" //io 工具包
+	"log"
 	"os"
 )
 
@@ -71,13 +72,27 @@ func main() {
 	f.Close()
 }
 
+// RemoveFilename can remove filename
+func RemoveFilename(filename string, wireteJSON []byte) error {
+	var err error
+
+	if checkFileIsExist(filename) { //如果文件存在
+		fmt.Println("文件存在")
+		err := os.Remove(filename)
+		if err != nil {
+			log.Fatal(err)
+		}
+	}
+	return err
+}
+
 // WriteJSON can write []byte
 func WriteJSON(filename string, wireteJSON []byte) error {
 	var err error
 	var f *os.File
 
 	if checkFileIsExist(filename) { //如果文件存在
-		f, err = os.OpenFile(filename, os.O_APPEND, 0666) //打开文件
+		f, err = os.OpenFile(filename, os.O_APPEND|os.O_WRONLY, 0666) //打开文件
 		fmt.Println("文件存在")
 	} else {
 		f, err = os.Create(filename) //创建文件

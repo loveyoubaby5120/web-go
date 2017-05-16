@@ -14,16 +14,16 @@ var (
 )
 
 func main() {
-	// _, _, _ = GetData()
+	_, _, _ = GetData()
 	// for i := 0; i < 10; i++ {
 	// 	fmt.Println(rand.Intn(100))
 	// }
 
-	// for _, value := jsonArray {
-	// 	fmt.Println(value.LowScore)
-	// }
+	for _, value := range jsonArray {
+		fmt.Println(value.LowScore)
+	}
 
-	// readScore(jsonArray)
+	WriteScore(jsonArray)
 }
 
 // WriteScore write hight school score
@@ -53,6 +53,10 @@ func GetData() ([]int, []format.Condition, error) {
 	}
 
 	for index, value := range scoreCondition {
+		if index > 2 {
+			break
+		}
+
 		// jsonC, err := map2json2map.Map2json(value)
 		// if err != nil {
 		// 	fmt.Println(err)
@@ -75,9 +79,6 @@ func GetData() ([]int, []format.Condition, error) {
 		}
 
 		jsonArray = append(jsonArray, *jsonC)
-
-		fmt.Println(index)
-		break
 	}
 
 	fmt.Println("获取配置成功: ", len(jsonArray))
