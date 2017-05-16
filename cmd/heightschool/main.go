@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"math/rand"
 	"web-go/util/format"
 	"web-go/util/jsonutil"
 )
@@ -15,14 +14,20 @@ var (
 )
 
 func main() {
-	for i := 0; i < 10; i++ {
-		fmt.Println(rand.Intn(100))
-	}
-	// _, _, _ = GetData()
+	_, _, _ = GetData()
+	// for i := 0; i < 10; i++ {
+	// 	fmt.Println(rand.Intn(100))
+	// }
+
+	// for _, value := jsonArray {
+	// 	fmt.Println(value.LowScore)
+	// }
+
 	// readScore(jsonArray)
 }
 
-func readScore(s interface{}) {
+// WriteScore write hight school score
+func WriteScore(s interface{}) {
 	var outJSONArray []byte
 	outJSONArray, err = format.Map2JSON(s)
 	if err != nil {
@@ -48,7 +53,7 @@ func GetData() ([]int, []format.Condition, error) {
 		return nil, nil, err
 	}
 
-	for _, value := range scoreCondition {
+	for index, value := range scoreCondition {
 		// jsonC, err := map2json2map.Map2json(value)
 		// if err != nil {
 		// 	fmt.Println(err)
@@ -72,6 +77,7 @@ func GetData() ([]int, []format.Condition, error) {
 
 		jsonArray = append(jsonArray, *jsonC)
 
+		fmt.Println(index)
 		break
 	}
 
