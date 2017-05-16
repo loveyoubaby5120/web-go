@@ -2,6 +2,7 @@ package format
 
 import "unsafe"
 
-func byteString(b []byte) string {
+// ByteToString is format byte to String
+func ByteToString(b []byte) string {
 	return *(*string)(unsafe.Pointer(&b))
 }

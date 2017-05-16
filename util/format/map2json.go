@@ -5,7 +5,8 @@ import (
 	"fmt"
 )
 
-func Map2json(m map[string]interface{}) ([]byte, error) {
+// Map2JSON is format map to json
+func Map2JSON(m interface{}) ([]byte, error) {
 	str, err := json.Marshal(m)
 	if err != nil {
 		fmt.Println(err)

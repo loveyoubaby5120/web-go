@@ -71,7 +71,8 @@ func main() {
 	f.Close()
 }
 
-func WriteJson(filename string, wireteJson []byte) error {
+// WriteJSON can write []byte
+func WriteJSON(filename string, wireteJSON []byte) error {
 	var err error
 	var f *os.File
 
@@ -83,26 +84,28 @@ func WriteJson(filename string, wireteJson []byte) error {
 		fmt.Println("文件不存在")
 	}
 	check(err)
-	n, err := io.WriteString(f, string(wireteJson)) //写入文件(字符串)
+	n, err := io.WriteString(f, string(wireteJSON)) //写入文件(字符串)
 	check(err)
 	fmt.Printf("写入 %d 个字节n", n)
 	return err
 }
 
-func WriteJson2(filename string, wireteJson []byte) error {
-	err := ioutil.WriteFile(filename, wireteJson, 0666) //写入文件(字节数组)
+// WriteJSON2 can write []byte
+func WriteJSON2(filename string, wireteJSON []byte) error {
+	err := ioutil.WriteFile(filename, wireteJSON, 0666) //写入文件(字节数组)
 	check(err)
 	return err
 }
 
-func WriteJson3(filename string, wireteJson []byte) error {
+// WriteJSON3 can write []byte
+func WriteJSON3(filename string, wireteJSON []byte) error {
 	var err error
 	var f *os.File
 
 	f, err = os.Create(filename) //创建文件
 	check(err)
 	defer f.Close()
-	n, err := f.Write(wireteJson) //写入文件(字节数组)
+	n, err := f.Write(wireteJSON) //写入文件(字节数组)
 	check(err)
 	fmt.Printf("写入 %d 个字节n", n)
 	n2, err := f.WriteString("writesn") //写入文件(字节数组)
@@ -112,12 +115,13 @@ func WriteJson3(filename string, wireteJson []byte) error {
 	return err
 }
 
-func WriteJson4(filename string, wireteJson []byte) error {
+// WriteJSON4 can write []byte
+func WriteJSON4(filename string, wireteJSON []byte) error {
 	var err error
 	var f *os.File
 
 	w := bufio.NewWriter(f) //创建新的 Writer 对象
-	n, err := w.WriteString(string(wireteJson))
+	n, err := w.WriteString(string(wireteJSON))
 	fmt.Printf("写入 %d 个字节n", n)
 	w.Flush()
 	f.Close()

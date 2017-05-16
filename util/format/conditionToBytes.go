@@ -5,6 +5,7 @@ import (
 	"unsafe"
 )
 
+// Condition is hight school score config
 type Condition struct {
 	EnrollNum   int
 	AvgScore    int
@@ -17,6 +18,7 @@ type Condition struct {
 
 var sizeOfCondition = int(unsafe.Sizeof(Condition{}))
 
+// ConditionToBytes is format Condition to bytes
 func ConditionToBytes(s *[]Condition) []byte {
 	var x reflect.SliceHeader
 	x.Len = sizeOfCondition

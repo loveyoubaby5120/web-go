@@ -8,6 +8,7 @@ import (
 
 var array = []int{}
 
+// ReadFileArray can read Array
 func ReadFileArray(filename string) ([]int, error) {
 	bytes, err := ioutil.ReadFile(filename)
 	if err != nil {

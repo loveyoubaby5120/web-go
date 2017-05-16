@@ -5,8 +5,9 @@ import (
 	"fmt"
 )
 
-func Json2map(str []byte) (map[string]interface{}, error) {
-	m := make(map[string]interface{})
+// JSON2map is format json to map
+func JSON2map(str []byte) (interface{}, error) {
+	var m interface{}
 	err := json.Unmarshal(str, &m)
 	if err != nil {
 		fmt.Println(err)
