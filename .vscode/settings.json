@@ -1,0 +1,19 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+  "go.formatOnSave": true,
+  "go.gopath": "/Users/pankai/DevelopmentProject/go",
+  "files.trimTrailingWhitespace": true,
+  "javascript.validate.enable": false,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "tslint.configFile": "tslint.json",
+  "tslint.autoFixOnSave": true,
+  "tslint.run": "onSave",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.pyc": true,
+    "**/vendor": true,
+    "**/dist": true
+  },
+  "vsicons.presets.angular": false
+}

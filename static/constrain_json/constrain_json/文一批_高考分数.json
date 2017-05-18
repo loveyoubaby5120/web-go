@@ -1,0 +1,9473 @@
+[
+  {
+    "enroll_num": 29,
+    "low_score": 661,
+    "rank": 878,
+    "major": "0001浙江大学（浙江•杭州）@*人文科学试验班[外国语言文学（非英语）]",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 73,
+    "low_score": 675,
+    "rank": 322,
+    "major": "0001浙江大学（浙江•杭州）@社会科学试验班",
+    "avg_score": 678
+  },
+  {
+    "enroll_num": 115,
+    "low_score": 665,
+    "rank": 685,
+    "major": "0001浙江大学（浙江•杭州）@人文科学试验班",
+    "avg_score": 669
+  },
+  {
+    "enroll_num": 84,
+    "low_score": 668,
+    "rank": 565,
+    "major": "0001浙江大学（浙江•杭州）@人文科学试验班（传媒）",
+    "avg_score": 671
+  },
+  {
+    "enroll_num": 26,
+    "low_score": 672,
+    "rank": 410,
+    "major": "0001浙江大学（浙江•杭州）@人文科学试验班（外国语言文学）",
+    "avg_score": 675
+  },
+  {
+    "enroll_num": 13,
+    "low_score": 626,
+    "rank": 4511,
+    "major": "0006杭州电子科技大学（浙江•杭州）@经管实验班",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 42,
+    "low_score": 631,
+    "rank": 3899,
+    "major": "0006杭州电子科技大学（浙江•杭州）@会计学（按会计学类招生，含会计学、财务管理、审计学）",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 628,
+    "rank": 4335,
+    "major": "0006杭州电子科技大学（浙江•杭州）@国际经济与贸易",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 628,
+    "rank": 4346,
+    "major": "0006杭州电子科技大学（浙江•杭州）@工商管理类（含工商管理、市场营销、人力资源管理）",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 627,
+    "rank": 4453,
+    "major": "0006杭州电子科技大学（浙江•杭州）@外国语言文学类[按语言类招生，含英语、英语（与国际经济与贸易复合）]",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 23,
+    "low_score": 641,
+    "rank": 2593,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@文科实验班（健行学院）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 31,
+    "low_score": 630,
+    "rank": 3972,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@工商管理类",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 20,
+    "low_score": 635,
+    "rank": 3307,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@国际经济与贸易",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 634,
+    "rank": 3361,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@建筑类（五年制）",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 30,
+    "low_score": 629,
+    "rank": 4108,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@新闻传播学类",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 62,
+    "low_score": 624,
+    "rank": 4971,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@中国语言文学类",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 41,
+    "low_score": 627,
+    "rank": 4363,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@法学类",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 57,
+    "low_score": 624,
+    "rank": 4972,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@公共管理类",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 20,
+    "low_score": 625,
+    "rank": 4823,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@日语",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 31,
+    "low_score": 626,
+    "rank": 4624,
+    "major": "0003浙江工业大学（入选“2011计划”高校）（浙江•杭州）@外国语言文学类",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 618,
+    "rank": 6058,
+    "major": "0008浙江理工大学（浙江•杭州）@工商管理（英文授课班）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 42,
+    "low_score": 619,
+    "rank": 5755,
+    "major": "0008浙江理工大学（浙江•杭州）@经济与贸易类（经济学、金融学、经济统计学、国际经济与贸易）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 35,
+    "low_score": 619,
+    "rank": 5848,
+    "major": "0008浙江理工大学（浙江•杭州）@工商管理类（会计学、工商管理、人力资源管理、市场营销）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 618,
+    "rank": 6046,
+    "major": "0008浙江理工大学（浙江•杭州）@公共管理类（行政管理、公共事业管理）",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 18,
+    "low_score": 618,
+    "rank": 6004,
+    "major": "0008浙江理工大学（浙江•杭州）@外国语言文学类（英语、日语）",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 621,
+    "rank": 5349,
+    "major": "0008浙江理工大学（浙江•杭州）@国际经济与贸易（英文授课班）",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 618,
+    "rank": 5860,
+    "major": "0008浙江理工大学（浙江•杭州）@法学类（法学）",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 618,
+    "rank": 5871,
+    "major": "0008浙江理工大学（浙江•杭州）@新闻传播学类（传播学）",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 18,
+    "low_score": 608,
+    "rank": 8065,
+    "major": "0010浙江海洋大学（浙江•舟山）@行政管理",
+    "avg_score": 610
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 615,
+    "rank": 6597,
+    "major": "0011浙江农林大学（浙江•临安）@园林",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 34,
+    "low_score": 611,
+    "rank": 7400,
+    "major": "0011浙江农林大学（浙江•临安）@农林经济管理",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 70,
+    "low_score": 610,
+    "rank": 7576,
+    "major": "0011浙江农林大学（浙江•临安）@法学",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 20,
+    "low_score": 612,
+    "rank": 7081,
+    "major": "0011浙江农林大学（浙江•临安）@人文地理与城乡规划",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 634,
+    "rank": 3442,
+    "major": "0009温州医科大学（浙江•温州）@中医学（五年制）",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 26,
+    "low_score": 643,
+    "rank": 2320,
+    "major": "0012浙江中医药大学（浙江•杭州）@中医学（本硕连读）（八年制）",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 15,
+    "low_score": 639,
+    "rank": 2795,
+    "major": "0012浙江中医药大学（浙江•杭州）@中医学（五年制）",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 29,
+    "low_score": 647,
+    "rank": 1943,
+    "major": "0004浙江师范大学（浙江•金华）@文科试验班类（师范）",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 9,
+    "low_score": 622,
+    "rank": 5300,
+    "major": "0004浙江师范大学（浙江•金华）@财务管理",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 621,
+    "rank": 5353,
+    "major": "0004浙江师范大学（浙江•金华）@财务管理（全英文班）",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 624,
+    "rank": 4908,
+    "major": "0004浙江师范大学（浙江•金华）@电子商务（全英文班）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 18,
+    "low_score": 622,
+    "rank": 5229,
+    "major": "0004浙江师范大学（浙江•金华）@会计学",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 620,
+    "rank": 5580,
+    "major": "0004浙江师范大学（浙江•金华）@市场营销",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 620,
+    "rank": 5570,
+    "major": "0004浙江师范大学（浙江•金华）@工商管理",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 9,
+    "low_score": 622,
+    "rank": 5286,
+    "major": "0004浙江师范大学（浙江•金华）@金融学",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 9,
+    "low_score": 620,
+    "rank": 5535,
+    "major": "0004浙江师范大学（浙江•金华）@国际经济与贸易",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 621,
+    "rank": 5497,
+    "major": "0004浙江师范大学（浙江•金华）@国际经济与贸易（全英文班）",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 39,
+    "low_score": 626,
+    "rank": 4576,
+    "major": "0004浙江师范大学（浙江•金华）@思想政治教育（师范）",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 20,
+    "low_score": 621,
+    "rank": 5462,
+    "major": "0004浙江师范大学（浙江•金华）@法学",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 620,
+    "rank": 5546,
+    "major": "0004浙江师范大学（浙江•金华）@社会工作",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 620,
+    "rank": 5511,
+    "major": "0004浙江师范大学（浙江•金华）@行政管理",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 634,
+    "rank": 3370,
+    "major": "0004浙江师范大学（浙江•金华）@小学教育（师范）",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 11,
+    "low_score": 625,
+    "rank": 4704,
+    "major": "0004浙江师范大学（浙江•金华）@应用心理学（师范）",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 25,
+    "low_score": 620,
+    "rank": 5559,
+    "major": "0004浙江师范大学（浙江•金华）@学前教育（师范）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 90,
+    "low_score": 632,
+    "rank": 3670,
+    "major": "0004浙江师范大学（浙江•金华）@汉语言文学（师范）",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 19,
+    "low_score": 630,
+    "rank": 3932,
+    "major": "0004浙江师范大学（浙江•金华）@历史学（师范）",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 28,
+    "low_score": 622,
+    "rank": 5177,
+    "major": "0004浙江师范大学（浙江•金华）@人文教育（师范）",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 54,
+    "low_score": 633,
+    "rank": 3524,
+    "major": "0004浙江师范大学（浙江•金华）@英语（师范）",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 25,
+    "low_score": 622,
+    "rank": 5307,
+    "major": "0004浙江师范大学（浙江•金华）@翻译",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 13,
+    "low_score": 620,
+    "rank": 5572,
+    "major": "0004浙江师范大学（浙江•金华）@日语",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 621,
+    "rank": 5390,
+    "major": "0004浙江师范大学（浙江•金华）@文化产业管理",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 28,
+    "low_score": 628,
+    "rank": 4342,
+    "major": "0004浙江师范大学（浙江•金华）@地理科学（师范）",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 21,
+    "low_score": 626,
+    "rank": 4535,
+    "major": "0004浙江师范大学（浙江•金华）@汉语国际教育（师范）",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 70,
+    "low_score": 621,
+    "rank": 5469,
+    "major": "0020杭州师范大学（浙江•杭州）@汉语言文学（师范）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 15,
+    "low_score": 618,
+    "rank": 5889,
+    "major": "0020杭州师范大学（浙江•杭州）@汉语言文学",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 36,
+    "low_score": 618,
+    "rank": 5916,
+    "major": "0020杭州师范大学（浙江•杭州）@历史学（师范）",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 21,
+    "low_score": 618,
+    "rank": 5981,
+    "major": "0020杭州师范大学（浙江•杭州）@人文教育（师范）",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 47,
+    "low_score": 620,
+    "rank": 5597,
+    "major": "0020杭州师范大学（浙江•杭州）@英语（师范）",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 46,
+    "low_score": 617,
+    "rank": 6112,
+    "major": "0020杭州师范大学（浙江•杭州）@英语",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 37,
+    "low_score": 616,
+    "rank": 6268,
+    "major": "0020杭州师范大学（浙江•杭州）@经济学",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 49,
+    "low_score": 616,
+    "rank": 6313,
+    "major": "0020杭州师范大学（浙江•杭州）@法学",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 30,
+    "low_score": 620,
+    "rank": 5649,
+    "major": "0020杭州师范大学（浙江•杭州）@小学教育（师范）",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 21,
+    "low_score": 615,
+    "rank": 6675,
+    "major": "0020杭州师范大学（浙江•杭州）@公共事业管理（健康管理方向）",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 616,
+    "rank": 6297,
+    "major": "0020杭州师范大学（浙江•杭州）@公共事业管理（卫生事业管理方向）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 21,
+    "low_score": 616,
+    "rank": 6312,
+    "major": "0020杭州师范大学（浙江•杭州）@电子商务",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 73,
+    "low_score": 608,
+    "rank": 8009,
+    "major": "0021湖州师范学院（浙江•湖州）@小学教育（师范）",
+    "avg_score": 610
+  },
+  {
+    "enroll_num": 79,
+    "low_score": 607,
+    "rank": 8198,
+    "major": "0021湖州师范学院（浙江•湖州）@汉语言文学（师范）",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 29,
+    "low_score": 608,
+    "rank": 8036,
+    "major": "0022绍兴文理学院（浙江•绍兴）@工商管理",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 33,
+    "low_score": 609,
+    "rank": 7825,
+    "major": "0022绍兴文理学院（浙江•绍兴）@汉语言文学（师范）",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 45,
+    "low_score": 612,
+    "rank": 7135,
+    "major": "0024温州大学（浙江•温州）@小学教育（师范）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 59,
+    "low_score": 612,
+    "rank": 7129,
+    "major": "0024温州大学（浙江•温州）@汉语言文学（师范）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 24,
+    "low_score": 614,
+    "rank": 6716,
+    "major": "0024温州大学（浙江•温州）@英语（师范）",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 27,
+    "low_score": 612,
+    "rank": 7107,
+    "major": "0024温州大学（浙江•温州）@汉语言文学（创意中文实验班）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 70,
+    "low_score": 629,
+    "rank": 4183,
+    "major": "0007浙江工商大学（浙江•杭州）@经济学类（含经济学、国际经济与贸易）",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 26,
+    "low_score": 636,
+    "rank": 3203,
+    "major": "0007浙江工商大学（浙江•杭州）@金融学类（含金融学、保险学）",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 21,
+    "low_score": 631,
+    "rank": 3878,
+    "major": "0007浙江工商大学（浙江•杭州）@经济统计学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 61,
+    "low_score": 637,
+    "rank": 3067,
+    "major": "0007浙江工商大学（浙江•杭州）@会计学（含会计学、财务管理、审计学、ACCA）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 11,
+    "low_score": 626,
+    "rank": 4584,
+    "major": "0007浙江工商大学（浙江•杭州）@旅游管理",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 42,
+    "low_score": 631,
+    "rank": 3823,
+    "major": "0007浙江工商大学（浙江•杭州）@法学",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 52,
+    "low_score": 621,
+    "rank": 5394,
+    "major": "0007浙江工商大学（浙江•杭州）@公共管理类（含公共事业管理、行政管理、土地资源管理、文化产业管理）",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 15,
+    "low_score": 629,
+    "rank": 4131,
+    "major": "0007浙江工商大学（浙江•杭州）@英语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 27,
+    "low_score": 626,
+    "rank": 4541,
+    "major": "0007浙江工商大学（浙江•杭州）@日语",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 69,
+    "low_score": 631,
+    "rank": 3902,
+    "major": "0007浙江工商大学（浙江•杭州）@工商管理类（含工商管理、市场营销、人力资源管理）",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 19,
+    "low_score": 610,
+    "rank": 7661,
+    "major": "0017嘉兴学院（浙江•嘉兴）@经济学",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 24,
+    "low_score": 611,
+    "rank": 7427,
+    "major": "0017嘉兴学院（浙江•嘉兴）@会计学",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 28,
+    "low_score": 614,
+    "rank": 6700,
+    "major": "0013中国计量大学（浙江•杭州）@财务管理",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 23,
+    "low_score": 614,
+    "rank": 6800,
+    "major": "0013中国计量大学（浙江•杭州）@工商管理",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 19,
+    "low_score": 605,
+    "rank": 8679,
+    "major": "0014浙江万里学院（浙江•宁波）@会展经济与管理",
+    "avg_score": 606
+  },
+  {
+    "enroll_num": 19,
+    "low_score": 636,
+    "rank": 3116,
+    "major": "0016浙江财经大学（浙江•杭州）@财政学",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 16,
+    "low_score": 636,
+    "rank": 3138,
+    "major": "0016浙江财经大学（浙江•杭州）@税收学",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 80,
+    "low_score": 643,
+    "rank": 2290,
+    "major": "0016浙江财经大学（浙江•杭州）@会计学（含CPACanada、ACCA、U.S.CPA方向）",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 30,
+    "low_score": 638,
+    "rank": 2892,
+    "major": "0016浙江财经大学（浙江•杭州）@财务管理",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 40,
+    "low_score": 641,
+    "rank": 2592,
+    "major": "0016浙江财经大学（浙江•杭州）@金融学",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 20,
+    "low_score": 636,
+    "rank": 3120,
+    "major": "0016浙江财经大学（浙江•杭州）@经济学（含产业经济、城市经济、金融经济方向）",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 30,
+    "low_score": 622,
+    "rank": 5270,
+    "major": "0166浙江财经大学（中外合作专业）（浙江•杭州）@工商管理类（中外合作办学）（会计学）",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 30,
+    "low_score": 618,
+    "rank": 6044,
+    "major": "0166浙江财经大学（中外合作专业）（浙江•杭州）@金融学类（中外合作办学）（金融学）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 15,
+    "low_score": 620,
+    "rank": 5596,
+    "major": "0005宁波大学（浙江•宁波）@国际经济与贸易（全英文班）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 24,
+    "low_score": 625,
+    "rank": 4780,
+    "major": "0005宁波大学（浙江•宁波）@会计学（ACCA）",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 19,
+    "low_score": 621,
+    "rank": 5348,
+    "major": "0005宁波大学（浙江•宁波）@会计学（CPACanada）",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 25,
+    "low_score": 620,
+    "rank": 5598,
+    "major": "0005宁波大学（浙江•宁波）@英语",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 622,
+    "rank": 5262,
+    "major": "0005宁波大学（浙江•宁波）@新闻传播学类（人文与传媒类）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 20,
+    "low_score": 624,
+    "rank": 4863,
+    "major": "0005宁波大学（浙江•宁波）@德语",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 621,
+    "rank": 5445,
+    "major": "0005宁波大学（浙江•宁波）@日语",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 621,
+    "rank": 5500,
+    "major": "0005宁波大学（浙江•宁波）@工商管理（中加学分互认）",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 65,
+    "low_score": 619,
+    "rank": 5798,
+    "major": "0005宁波大学（浙江•宁波）@法学类（法政类）",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 65,
+    "low_score": 619,
+    "rank": 5826,
+    "major": "0005宁波大学（浙江•宁波）@经济学类",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 55,
+    "low_score": 618,
+    "rank": 5863,
+    "major": "0005宁波大学（浙江•宁波）@工商管理类",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 12,
+    "low_score": 620,
+    "rank": 5628,
+    "major": "0005宁波大学（浙江•宁波）@教育学类（师范类文科）",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 623,
+    "rank": 5094,
+    "major": "0005宁波大学（浙江•宁波）@英语（师范）",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 625,
+    "rank": 4796,
+    "major": "0005宁波大学（浙江•宁波）@小学教育（师范）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 18,
+    "low_score": 621,
+    "rank": 5479,
+    "major": "0005宁波大学（浙江•宁波）@金融学（全英文班）",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 612,
+    "rank": 7166,
+    "major": "0248宁波大学（中外合作专业）（浙江•宁波）@旅游管理类（中外合作办学）[旅游管理（中法合作）]",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 12,
+    "low_score": 615,
+    "rank": 6532,
+    "major": "0027浙江传媒学院（浙江•杭州）@新闻学",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 12,
+    "low_score": 616,
+    "rank": 6337,
+    "major": "0027浙江传媒学院（浙江•杭州）@广播电视学",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 20,
+    "low_score": 614,
+    "rank": 6831,
+    "major": "0018浙江大学城市学院（浙江•杭州）@资产评估",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 48,
+    "low_score": 606,
+    "rank": 8411,
+    "major": "0019浙江大学宁波理工学院（浙江•宁波）@网络与新媒体",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 48,
+    "low_score": 611,
+    "rank": 7362,
+    "major": "0025浙江外国语学院（浙江•杭州）@英语（师范）",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 35,
+    "low_score": 612,
+    "rank": 7255,
+    "major": "0025浙江外国语学院（浙江•杭州）@英语",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 26,
+    "low_score": 636,
+    "rank": 3096,
+    "major": "0182宁波诺丁汉大学（浙江•宁波）@工商管理类（中外合作办学）（财务管理）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 633,
+    "rank": 3518,
+    "major": "0182宁波诺丁汉大学（浙江•宁波）@经济与贸易类（中外合作办学）（国际经济与贸易）",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 628,
+    "rank": 4253,
+    "major": "0182宁波诺丁汉大学（浙江•宁波）@政治学类（中外合作办学）（国际事务与国际关系）",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 16,
+    "low_score": 624,
+    "rank": 4945,
+    "major": "0182宁波诺丁汉大学（浙江•宁波）@新闻传播学类（中外合作办学）（传播学）",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 624,
+    "rank": 4962,
+    "major": "0182宁波诺丁汉大学（浙江•宁波）@外国语言文学类（中外合作办学）（英语，2+2）",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 623,
+    "rank": 5093,
+    "major": "0182宁波诺丁汉大学（浙江•宁波）@外国语言文学类（中外合作办学）（英语）",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 623,
+    "rank": 5068,
+    "major": "0182宁波诺丁汉大学（浙江•宁波）@中国语言文学类（中外合作办学）（汉语国际教育）",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 46,
+    "low_score": 625,
+    "rank": 4810,
+    "major": "0182宁波诺丁汉大学（浙江•宁波）@工商管理类（中外合作办学）（国际商务）",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 25,
+    "low_score": 606,
+    "rank": 8466,
+    "major": "0168温州肯恩大学（浙江•温州）@金融学类（中外合作办学）[金融学（国际金融方向）]",
+    "avg_score": 610
+  },
+  {
+    "enroll_num": 24,
+    "low_score": 607,
+    "rank": 8167,
+    "major": "0168温州肯恩大学（浙江•温州）@工商管理类（中外合作办学）[会计学（国际会计方向）]",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 613,
+    "rank": 6988,
+    "major": "0168温州肯恩大学（浙江•温州）@工商管理类（中外合作办学）（国际商务）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 606,
+    "rank": 8472,
+    "major": "0168温州肯恩大学（浙江•温州）@工商管理类（中外合作办学）[市场营销（国际市场营销方向）]",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 9,
+    "low_score": 605,
+    "rank": 8495,
+    "major": "0168温州肯恩大学（浙江•温州）@外国语言文学类（中外合作办学）[英语（国际英语教学方向）]",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 703,
+    "rank": 18,
+    "major": "1103北京大学（北京）@*法语",
+    "avg_score": 703
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 703,
+    "rank": 20,
+    "major": "1103北京大学（北京）@*西班牙语",
+    "avg_score": 704
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 707,
+    "rank": 11,
+    "major": "1103北京大学（北京）@文科试验班类（元培学院）",
+    "avg_score": 709
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 706,
+    "rank": 13,
+    "major": "1103北京大学（北京）@法学",
+    "avg_score": 706
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 711,
+    "rank": 5,
+    "major": "1103北京大学（北京）@工商管理类",
+    "avg_score": 722
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 686,
+    "rank": 118,
+    "major": "1159中国人民大学（北京）@*德语",
+    "avg_score": 687
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 685,
+    "rank": 121,
+    "major": "1159中国人民大学（北京）@*西班牙语",
+    "avg_score": 685
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 687,
+    "rank": 106,
+    "major": "1159中国人民大学（北京）@经济学类",
+    "avg_score": 692
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 694,
+    "rank": 52,
+    "major": "1159中国人民大学（北京）@政治学、经济学与哲学（PPE实验班）",
+    "avg_score": 694
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 690,
+    "rank": 82,
+    "major": "1159中国人民大学（北京）@金融学类",
+    "avg_score": 692
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 687,
+    "rank": 103,
+    "major": "1159中国人民大学（北京）@财政学类",
+    "avg_score": 690
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 686,
+    "rank": 116,
+    "major": "1159中国人民大学（北京）@农业经济管理类",
+    "avg_score": 686
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 693,
+    "rank": 63,
+    "major": "1159中国人民大学（北京）@法学",
+    "avg_score": 694
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 685,
+    "rank": 125,
+    "major": "1159中国人民大学（北京）@社会学类",
+    "avg_score": 685
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 687,
+    "rank": 98,
+    "major": "1159中国人民大学（北京）@新闻传播学类",
+    "avg_score": 689
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 686,
+    "rank": 111,
+    "major": "1159中国人民大学（北京）@工商管理类",
+    "avg_score": 689
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 686,
+    "rank": 112,
+    "major": "1159中国人民大学（北京）@公共管理类",
+    "avg_score": 687
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 685,
+    "rank": 127,
+    "major": "1159中国人民大学（北京）@人力资源管理",
+    "avg_score": 686
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 685,
+    "rank": 122,
+    "major": "1159中国人民大学（北京）@人文科学试验班",
+    "avg_score": 685
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 701,
+    "rank": 25,
+    "major": "1147清华大学（北京）@新闻学（新闻与传播）",
+    "avg_score": 702
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1280,
+    "major": "1121北京交通大学（北京）@法学",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 652,
+    "rank": 1470,
+    "major": "1121北京交通大学（北京）@文科试验班类（语言与传播）",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1412,
+    "major": "1121北京交通大学（北京）@经济管理试验班",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 634,
+    "rank": 3344,
+    "major": "1113北京工业大学（北京）@社会学类",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 636,
+    "rank": 3177,
+    "major": "1113北京工业大学（北京）@英语",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 656,
+    "rank": 1170,
+    "major": "1116北京航空航天大学（北京）@社会科学试验班",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1210,
+    "major": "1127北京理工大学（北京）@经济学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 649,
+    "rank": 1781,
+    "major": "1127北京理工大学（北京）@社会工作",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1675,
+    "major": "1127北京理工大学（北京）@法学",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 649,
+    "rank": 1742,
+    "major": "1127北京理工大学（北京）@外国语言文学类",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1597,
+    "major": "1127北京理工大学（北京）@国际经济与贸易",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 650,
+    "rank": 1632,
+    "major": "1123北京科技大学（北京）@经济与贸易类",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 643,
+    "rank": 2311,
+    "major": "1123北京科技大学（北京）@法学",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 643,
+    "rank": 2342,
+    "major": "1123北京科技大学（北京）@社会工作（社会管理）",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2347,
+    "major": "1123北京科技大学（北京）@行政管理",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2036,
+    "major": "1123北京科技大学（北京）@英语",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2097,
+    "major": "1123北京科技大学（北京）@工商管理类",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 644,
+    "rank": 2201,
+    "major": "1123北京科技大学（北京）@日语",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1966,
+    "major": "1123北京科技大学（北京）@德语",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 635,
+    "rank": 3270,
+    "major": "1117北京化工大学（北京）@国际经济与贸易",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 636,
+    "rank": 3089,
+    "major": "1117北京化工大学（北京）@财务管理（财务与金融方向）",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 630,
+    "rank": 3986,
+    "major": "1117北京化工大学（北京）@法学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 627,
+    "rank": 4415,
+    "major": "1117北京化工大学（北京）@英语",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 654,
+    "rank": 1340,
+    "major": "1157中国农业大学（北京）@社会学",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2339,
+    "major": "1157中国农业大学（北京）@英语",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1699,
+    "major": "1157中国农业大学（北京）@传播学",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1201,
+    "major": "1157中国农业大学（北京）@工商管理类",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1413,
+    "major": "1157中国农业大学（北京）@农村区域发展",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1858,
+    "major": "1157中国农业大学（北京）@经济学类（中外合作办学）",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1857,
+    "major": "1157中国农业大学（北京）@法学",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2446,
+    "major": "1128北京林业大学（北京）@国际经济与贸易",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 640,
+    "rank": 2625,
+    "major": "1128北京林业大学（北京）@工商管理类",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2050,
+    "major": "1128北京林业大学（北京）@会计学",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1879,
+    "major": "1128北京林业大学（北京）@农林经济管理",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2814,
+    "major": "1128北京林业大学（北京）@法学",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 629,
+    "rank": 4118,
+    "major": "1128北京林业大学（北京）@应用心理学",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2725,
+    "major": "1128北京林业大学（北京）@商务英语",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 657,
+    "rank": 1101,
+    "major": "1143北京中医药大学（北京）@中医学（五年制）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1370,
+    "major": "1143北京中医药大学（北京）@针灸推拿学（五年制）",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1923,
+    "major": "1143北京中医药大学（北京）@公共事业管理（卫生事业）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1903,
+    "major": "1143北京中医药大学（北京）@法学（医药卫生）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1678,
+    "major": "1143北京中医药大学（北京）@英语（中医药国际传播）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 679,
+    "rank": 237,
+    "major": "1130北京师范大学（北京）@教育学（国家试点学院）",
+    "avg_score": 679
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 683,
+    "rank": 159,
+    "major": "1130北京师范大学（北京）@国际经济与贸易（瀚德实验班2班）",
+    "avg_score": 683
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 669,
+    "rank": 510,
+    "major": "1130北京师范大学（北京）@法学（卓越实验班）",
+    "avg_score": 669
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 669,
+    "rank": 517,
+    "major": "1130北京师范大学（北京）@汉语言文学",
+    "avg_score": 673
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 675,
+    "rank": 321,
+    "major": "1130北京师范大学（北京）@历史学",
+    "avg_score": 676
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 671,
+    "rank": 462,
+    "major": "1130北京师范大学（北京）@传播学",
+    "avg_score": 672
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3541,
+    "major": "1149首都师范大学（北京）@法语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3803,
+    "major": "1149首都师范大学（北京）@秘书学",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 630,
+    "rank": 3977,
+    "major": "1149首都师范大学（北京）@文化遗产",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 636,
+    "rank": 3124,
+    "major": "1149首都师范大学（北京）@英语",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3901,
+    "major": "1133北京外国语大学（北京）@*鸟克兰语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 668,
+    "rank": 586,
+    "major": "1133北京外国语大学（北京）@*葡萄牙语",
+    "avg_score": 670
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 608,
+    "rank": 8028,
+    "major": "1133北京外国语大学（北京）@*阿尔巴尼亚语",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 626,
+    "rank": 4570,
+    "major": "1133北京外国语大学（北京）@*斯瓦希里语",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 666,
+    "rank": 649,
+    "major": "1133北京外国语大学（北京）@英语",
+    "avg_score": 672
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 665,
+    "rank": 663,
+    "major": "1133北京外国语大学（北京）@新闻学",
+    "avg_score": 672
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 669,
+    "rank": 543,
+    "major": "1133北京外国语大学（北京）@国际经济与贸易（中外合作办学）",
+    "avg_score": 669
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 663,
+    "rank": 769,
+    "major": "1133北京外国语大学（北京）@工商管理类",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 684,
+    "rank": 142,
+    "major": "1133北京外国语大学（北京）@外交学（法语与法语国家研究）",
+    "avg_score": 687
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 665,
+    "rank": 701,
+    "major": "1133北京外国语大学（北京）@法学",
+    "avg_score": 666
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 716,
+    "major": "1133北京外国语大学（北京）@汉语国际教育",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 677,
+    "rank": 266,
+    "major": "1133北京外国语大学（北京）@德语",
+    "avg_score": 679
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 650,
+    "rank": 1661,
+    "major": "1105北京第二外国语学院（北京）@英语",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2094,
+    "major": "1105北京第二外国语学院（北京）@波兰语",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1813,
+    "major": "1105北京第二外国语学院（北京）@日语",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 650,
+    "rank": 1706,
+    "major": "1105北京第二外国语学院（北京）@捷克语",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1248,
+    "major": "1105北京第二外国语学院（北京）@德语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2087,
+    "major": "1105北京第二外国语学院（北京）@匈牙利语",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1870,
+    "major": "1105北京第二外国语学院（北京）@意大利语",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 649,
+    "rank": 1787,
+    "major": "1105北京第二外国语学院（北京）@拉脱维亚语",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 649,
+    "rank": 1743,
+    "major": "1105北京第二外国语学院（北京）@朝鲜语（韩语）",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 646,
+    "rank": 2056,
+    "major": "1105北京第二外国语学院（北京）@新闻学",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2130,
+    "major": "1105北京第二外国语学院（北京）@旅游管理",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1932,
+    "major": "1105北京第二外国语学院（北京）@汉语国际教育",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 652,
+    "rank": 1515,
+    "major": "1142北京语言大学（北京）@*法语",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 652,
+    "rank": 1500,
+    "major": "1142北京语言大学（北京）@*日语（“日+英”复语）",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1155,
+    "major": "1142北京语言大学（北京）@*葡萄牙语",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 654,
+    "rank": 1332,
+    "major": "1142北京语言大学（北京）@*翻译（本地化）",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 652,
+    "rank": 1477,
+    "major": "1142北京语言大学（北京）@英语",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1501,
+    "major": "1142北京语言大学（北京）@汉语国际教育",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1801,
+    "major": "1142北京语言大学（北京）@汉语言文学",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1866,
+    "major": "1142北京语言大学（北京）@国际政治",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 646,
+    "rank": 2006,
+    "major": "1142北京语言大学（北京）@国际事务与国际关系",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1784,
+    "major": "1142北京语言大学（北京）@金融学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 650,
+    "rank": 1695,
+    "major": "1142北京语言大学（北京）@会计学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2092,
+    "major": "1142北京语言大学（北京）@特殊教育（言语听觉科学）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1436,
+    "major": "1153中国传媒大学（北京）@*德语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1478,
+    "major": "1153中国传媒大学（北京）@*法语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 994,
+    "major": "1153中国传媒大学（北京）@网络与新媒体（媒体创意方向）",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 662,
+    "rank": 822,
+    "major": "1153中国传媒大学（北京）@传播学",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1200,
+    "major": "1153中国传媒大学（北京）@工商管理类[工商管理、市场营销（品牌管理方向）、会计学]",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 657,
+    "rank": 1130,
+    "major": "1153中国传媒大学（北京）@文化产业管理（影视制片管理、文化经纪方向）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1236,
+    "major": "1153中国传媒大学（北京）@行政管理",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 641,
+    "rank": 2484,
+    "major": "1192中国传媒大学（中外合作专业）（北京）@新闻传播学类（中外合作办学）（传播学）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2612,
+    "major": "1192中国传媒大学（中外合作专业）（北京）@新闻传播学类（中外合作办学）（广告学）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 677,
+    "rank": 272,
+    "major": "1165中央财经大学（北京）@财政学",
+    "avg_score": 677
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 679,
+    "rank": 236,
+    "major": "1165中央财经大学（北京）@会计学",
+    "avg_score": 679
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 669,
+    "rank": 515,
+    "major": "1165中央财经大学（北京）@税收学（国际税收）",
+    "avg_score": 669
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 663,
+    "rank": 792,
+    "major": "1165中央财经大学（北京）@劳动与社会保障",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 672,
+    "rank": 429,
+    "major": "1165中央财经大学（北京）@经济学",
+    "avg_score": 678
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 989,
+    "major": "1165中央财经大学（北京）@法学",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 667,
+    "rank": 605,
+    "major": "1165中央财经大学（北京）@社会学（经济社会学）",
+    "avg_score": 667
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 659,
+    "rank": 1023,
+    "major": "1165中央财经大学（北京）@汉语言文学（财经文秘）",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 1004,
+    "major": "1165中央财经大学（北京）@广告学",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 991,
+    "major": "1165中央财经大学（北京）@翻译（财经翻译）",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 897,
+    "major": "1165中央财经大学（北京）@日语（财经日语）",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1107,
+    "major": "1144对外经济贸易大学（北京）@*俄语",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1287,
+    "major": "1144对外经济贸易大学（北京）@*日语",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1571,
+    "major": "1144对外经济贸易大学（北京）@*意大利语",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 651,
+    "rank": 1627,
+    "major": "1144对外经济贸易大学（北京）@*希腊语",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 662,
+    "rank": 817,
+    "major": "1144对外经济贸易大学（北京）@国际经济与贸易",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 673,
+    "rank": 377,
+    "major": "1144对外经济贸易大学（北京）@金融学（国际经济贸易学院）",
+    "avg_score": 673
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 663,
+    "rank": 784,
+    "major": "1144对外经济贸易大学（北京）@税收学",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 674,
+    "rank": 352,
+    "major": "1144对外经济贸易大学（北京）@金融学（金融学院）",
+    "avg_score": 675
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 672,
+    "rank": 406,
+    "major": "1144对外经济贸易大学（北京）@会计学",
+    "avg_score": 674
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 980,
+    "major": "1144对外经济贸易大学（北京）@财务管理",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 661,
+    "rank": 880,
+    "major": "1144对外经济贸易大学（北京）@人力资源管理",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 1008,
+    "major": "1144对外经济贸易大学（北京）@经济统计学",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 973,
+    "major": "1144对外经济贸易大学（北京）@翻译",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 928,
+    "major": "1144对外经济贸易大学（北京）@德语",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 956,
+    "major": "1144对外经济贸易大学（北京）@法语",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 810,
+    "major": "1144对外经济贸易大学（北京）@西班牙语",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 665,
+    "rank": 688,
+    "major": "1144对外经济贸易大学（北京）@葡萄牙语",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 661,
+    "rank": 862,
+    "major": "1144对外经济贸易大学（北京）@法学",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 975,
+    "major": "1144对外经济贸易大学（北京）@电子商务",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 992,
+    "major": "1144对外经济贸易大学（北京）@政治学与行政学",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 678,
+    "rank": 252,
+    "major": "1152外交学院（北京）@*外交学（外交外事）",
+    "avg_score": 678
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 670,
+    "rank": 480,
+    "major": "1152外交学院（北京）@*英语",
+    "avg_score": 670
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 666,
+    "rank": 643,
+    "major": "1152外交学院（北京）@*翻译",
+    "avg_score": 666
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 678,
+    "rank": 254,
+    "major": "1152外交学院（北京）@*法语",
+    "avg_score": 678
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 673,
+    "rank": 368,
+    "major": "1152外交学院（北京）@*西班牙语",
+    "avg_score": 673
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 670,
+    "rank": 499,
+    "major": "1152外交学院（北京）@*法学",
+    "avg_score": 670
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 632,
+    "rank": 3639,
+    "major": "1145国际关系学院（北京）@*传播学",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2135,
+    "major": "1145国际关系学院（北京）@*英语",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3561,
+    "major": "1145国际关系学院（北京）@*日语",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1815,
+    "major": "1145国际关系学院（北京）@*法语",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3564,
+    "major": "1132北京体育大学（北京）@公共事业管理（体育管理）",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 634,
+    "rank": 3423,
+    "major": "1132北京体育大学（北京）@体育经济与管理",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3284,
+    "major": "1132北京体育大学（北京）@新闻学（体育新闻）",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3778,
+    "major": "1132北京体育大学（北京）@广告学（体育营销传播）",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 629,
+    "rank": 4120,
+    "major": "1132北京体育大学（北京）@英语（囯际体育）",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 625,
+    "rank": 4653,
+    "major": "1132北京体育大学（北京）@汉语国际教育",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1896,
+    "major": "1167中央民族大学（北京）@哲学类",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1826,
+    "major": "1167中央民族大学（北京）@金融学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1860,
+    "major": "1167中央民族大学（北京）@法学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1773,
+    "major": "1167中央民族大学（北京）@社会学",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2016,
+    "major": "1167中央民族大学（北京）@民族学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1976,
+    "major": "1167中央民族大学（北京）@教育学",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1861,
+    "major": "1167中央民族大学（北京）@汉语言文学",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1840,
+    "major": "1167中央民族大学（北京）@英语",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1881,
+    "major": "1167中央民族大学（北京）@新闻学",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1958,
+    "major": "1167中央民族大学（北京）@历史学（基地班）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1527,
+    "major": "1167中央民族大学（北京）@文物与博物馆学",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1133,
+    "major": "1163中国政法大学（北京）@哲学",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 13,
+    "low_score": 665,
+    "rank": 686,
+    "major": "1163中国政法大学（北京）@法学",
+    "avg_score": 671
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 679,
+    "rank": 221,
+    "major": "1163中国政法大学（北京）@法学（法学人才培养模式改革实验班）",
+    "avg_score": 681
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 681,
+    "rank": 190,
+    "major": "1163中国政法大学（北京）@法学（涉外法律人才培养模式实验班）",
+    "avg_score": 681
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1095,
+    "major": "1163中国政法大学（北京）@社会工作",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 977,
+    "major": "1163中国政法大学（北京）@翻译",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 678,
+    "rank": 251,
+    "major": "1163中国政法大学（北京）@德语",
+    "avg_score": 678
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 661,
+    "rank": 848,
+    "major": "1163中国政法大学（北京）@新闻学",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 958,
+    "major": "1163中国政法大学（北京）@公共管理类",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1179,
+    "major": "1163中国政法大学（北京）@思想政治教育",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 656,
+    "rank": 1159,
+    "major": "1163中国政法大学（北京）@国际政治",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 759,
+    "major": "1163中国政法大学（北京）@政治学与行政学",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 639,
+    "rank": 2728,
+    "major": "1146华北电力大学（北京）（北京）@英语",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 639,
+    "rank": 2791,
+    "major": "1146华北电力大学（北京）（北京）@翻译",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 646,
+    "rank": 1985,
+    "major": "1146华北电力大学（北京）（北京）@法学",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 637,
+    "rank": 3058,
+    "major": "1146华北电力大学（北京）（北京）@广告学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 637,
+    "rank": 3038,
+    "major": "1146华北电力大学（北京）（北京）@行政管理",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 637,
+    "rank": 3033,
+    "major": "1146华北电力大学（北京）（北京）@公共事业管理",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 636,
+    "rank": 3108,
+    "major": "1146华北电力大学（北京）（北京）@汉语言文学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1402,
+    "major": "1146华北电力大学（北京）（北京）@会计学",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2517,
+    "major": "1146华北电力大学（北京）（北京）@财务管理",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 637,
+    "rank": 3027,
+    "major": "1146华北电力大学（北京）（北京）@劳动与社会保障",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4341,
+    "major": "1155中国矿业大学（北京）（北京）@法学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 625,
+    "rank": 4646,
+    "major": "1155中国矿业大学（北京）（北京）@行政管理",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 629,
+    "rank": 4060,
+    "major": "1155中国矿业大学（北京）（北京）@英语",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3478,
+    "major": "1160中国石油大学（北京）（北京）@英语",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 639,
+    "rank": 2743,
+    "major": "1160中国石油大学（北京）（北京）@工商管理类",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4222,
+    "major": "1154中国地质大学（北京）（北京）@法学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 639,
+    "rank": 2782,
+    "major": "1158中国青年政治学院（北京）@*法学",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 649,
+    "rank": 1748,
+    "major": "1158中国青年政治学院（北京）@*政治学与行政学",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 629,
+    "rank": 4076,
+    "major": "1158中国青年政治学院（北京）@*行政管理",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 634,
+    "rank": 3371,
+    "major": "1158中国青年政治学院（北京）@*思想政治教育",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 636,
+    "rank": 3149,
+    "major": "1158中国青年政治学院（北京）@*新闻学",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 636,
+    "rank": 3150,
+    "major": "1158中国青年政治学院（北京）@*广播电视学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 629,
+    "rank": 4064,
+    "major": "1158中国青年政治学院（北京）@*社会学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3873,
+    "major": "1158中国青年政治学院（北京）@*社会工作",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 652,
+    "rank": 1522,
+    "major": "1158中国青年政治学院（北京）@*劳动与社会保障",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 632,
+    "rank": 3668,
+    "major": "1158中国青年政治学院（北京）@*汉语言文学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 636,
+    "rank": 3140,
+    "major": "1158中国青年政治学院（北京）@*英语",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 899,
+    "major": "1203南开大学（天津）@汉语言文学",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 659,
+    "rank": 998,
+    "major": "1203南开大学（天津）@翻译",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 657,
+    "rank": 1110,
+    "major": "1203南开大学（天津）@日语",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 660,
+    "rank": 919,
+    "major": "1203南开大学（天津）@经济学类",
+    "avg_score": 668
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 661,
+    "rank": 860,
+    "major": "1203南开大学（天津）@工商管理类",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 1018,
+    "major": "1203南开大学（天津）@历史学类",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 709,
+    "major": "1203南开大学（天津）@政治学类",
+    "avg_score": 666
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 658,
+    "rank": 1029,
+    "major": "1203南开大学（天津）@社会学类",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 969,
+    "major": "1203南开大学（天津）@城市管理",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 659,
+    "rank": 963,
+    "major": "1203南开大学（天津）@法学",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 661,
+    "rank": 881,
+    "major": "1203南开大学（天津）@汉语国际教育",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 746,
+    "major": "1203南开大学（天津）@金融学类",
+    "avg_score": 671
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 627,
+    "rank": 4394,
+    "major": "1206天津财经大学（天津）@财政学",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 638,
+    "rank": 2856,
+    "major": "1206天津财经大学（天津）@经济学",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3583,
+    "major": "1206天津财经大学（天津）@金融学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 632,
+    "rank": 3666,
+    "major": "1206天津财经大学（天津）@金融学（国际金融）",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 627,
+    "rank": 4402,
+    "major": "1206天津财经大学（天津）@囯际经济与贸易（国际经济〉",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 624,
+    "rank": 4946,
+    "major": "1206天津财经大学（天津）@行政管理",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 625,
+    "rank": 4785,
+    "major": "1206天津财经大学（天津）@保险学",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 625,
+    "rank": 4820,
+    "major": "1206天津财经大学（天津）@信用管理",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 624,
+    "rank": 4986,
+    "major": "1206天津财经大学（天津）@物流管理",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 627,
+    "rank": 4482,
+    "major": "1206天津财经大学（天津）@工商管理",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 632,
+    "rank": 3625,
+    "major": "1206天津财经大学（天津）@会计学（财务会计）",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3576,
+    "major": "1206天津财经大学（天津）@会计学（国际会计）",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2680,
+    "major": "1206天津财经大学（天津）@会计学（注册会计师）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 623,
+    "rank": 5071,
+    "major": "1206天津财经大学（天津）@国际商务",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 627,
+    "rank": 4489,
+    "major": "1206天津财经大学（天津）@人力资源管理",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 624,
+    "rank": 4834,
+    "major": "1206天津财经大学（天津）@酒店管理",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 622,
+    "rank": 5213,
+    "major": "1334华北电力大学（保定）（河北•保定）@公共事业管理",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3525,
+    "major": "1334华北电力大学（保定）（河北•保定）@法学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 620,
+    "rank": 5643,
+    "major": "1334华北电力大学（保定）（河北•保定）@社会工作",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 622,
+    "rank": 5280,
+    "major": "1334华北电力大学（保定）（河北•保定）@翻译",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 5902,
+    "major": "1334华北电力大学（保定）（河北•保定）@英语",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 636,
+    "rank": 3144,
+    "major": "1334华北电力大学（保定）（河北•保定）@会计学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 610,
+    "rank": 7610,
+    "major": "1342石家庄铁道大学（河北•石家庄）@国际经济与贸易",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6631,
+    "major": "1349燕山大学（河北•秦皇岛）@法学",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6817,
+    "major": "1349燕山大学（河北•秦皇岛）@行政管理",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 613,
+    "rank": 6872,
+    "major": "1349燕山大学（河北•秦皇岛）@旅游管理",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 612,
+    "rank": 7250,
+    "major": "1404山西大学（山西•太原）@中国语言文学类（文科初民试验班）",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 610,
+    "rank": 7612,
+    "major": "1404山西大学（山西•太原）@汉语言文学",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 613,
+    "rank": 6940,
+    "major": "1404山西大学（山西•太原）@历史学",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 612,
+    "rank": 7288,
+    "major": "1404山西大学（山西•太原）@哲学",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 614,
+    "rank": 6695,
+    "major": "1415太原理工大学（山西•太原）@行政管理",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 614,
+    "rank": 6805,
+    "major": "1415太原理工大学（山西•太原）@思想政治教育",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6427,
+    "major": "1415太原理工大学（山西•太原）@英语",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6166,
+    "major": "1415太原理工大学（山西•太原）@法学",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6624,
+    "major": "1415太原理工大学（山西•太原）@市场营销",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6426,
+    "major": "1415太原理工大学（山西•太原）@会计学",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6558,
+    "major": "1415太原理工大学（山西•太原）@国际经济与贸易",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6762,
+    "major": "1415太原理工大学（山西•太原）@汉语国际教育",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 624,
+    "rank": 4844,
+    "major": "2127辽宁大学（辽宁•沈阳）@汉语言文学",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 625,
+    "rank": 4669,
+    "major": "2127辽宁大学（辽宁•沈阳）@行政管理",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 626,
+    "rank": 4521,
+    "major": "2127辽宁大学（辽宁•沈阳）@广播电视学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 638,
+    "rank": 2834,
+    "major": "2127辽宁大学（辽宁•沈阳）@金融学",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 632,
+    "rank": 3695,
+    "major": "2127辽宁大学（辽宁•沈阳）@保险学",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 622,
+    "rank": 5154,
+    "major": "2127辽宁大学（辽宁•沈阳）@朝鲜语",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 623,
+    "rank": 5090,
+    "major": "2127辽宁大学（辽宁•沈阳）@市场营销",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 632,
+    "rank": 3664,
+    "major": "2127辽宁大学（辽宁•沈阳）@法学",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 628,
+    "rank": 4314,
+    "major": "2127辽宁大学（辽宁•沈阳）@德语",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 616,
+    "rank": 6412,
+    "major": "2127辽宁大学（辽宁•沈阳）@工商管理类（中外合作办学）（会计学）",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 613,
+    "rank": 6939,
+    "major": "2127辽宁大学（辽宁•沈阳）@工商管理类（中外合作办学）（工商管理）",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2124,
+    "major": "2111大连理工大学（辽宁•大连）@新闻传播学类",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2401,
+    "major": "2111大连理工大学（辽宁•大连）@哲学",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1931,
+    "major": "2111大连理工大学（辽宁•大连）@英语（含翻译专业）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1864,
+    "major": "2111大连理工大学（辽宁•大连）@日语",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 642,
+    "rank": 2395,
+    "major": "2111大连理工大学（辽宁•大连）@公共管理类",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 642,
+    "rank": 2421,
+    "major": "2124东北大学（辽宁•沈阳）@公共管理类（含法学、公共事业管理、行政管理、新闻学）",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2531,
+    "major": "2124东北大学（辽宁•沈阳）@人文科学试验班（含思想政治教育、哲学）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 640,
+    "rank": 2631,
+    "major": "2124东北大学（辽宁•沈阳）@外国语言文学类（含英语、日语、俄语、德语）",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 636,
+    "rank": 3115,
+    "major": "2108大连海事大学（辽宁•大连）@法学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 613,
+    "rank": 6985,
+    "major": "2108大连海事大学（辽宁•大连）@社会工作",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 634,
+    "rank": 3358,
+    "major": "2108大连海事大学（辽宁•大连）@英语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1972,
+    "major": "2122东北财经大学（辽宁•大连）@财政学类（含财政学和税收学）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2004,
+    "major": "2122东北财经大学（辽宁•大连）@金融学类（含金融学、金融工程、保险学和投资学）",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2133,
+    "major": "2122东北财经大学（辽宁•大连）@国际经济与贸易",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1907,
+    "major": "2122东北财经大学（辽宁•大连）@工商管理类（含工商管理、市场营销、人力资源管理和物流管理）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 1998,
+    "major": "2122东北财经大学（辽宁•大连）@工商管理类（含会计学、财务管理和资产评估）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1188,
+    "major": "2122东北财经大学（辽宁•大连）@会计学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2235,
+    "major": "2122东北财经大学（辽宁•大连）@公共管理类（含公共事业管理、行政管理和劳动与社会保障）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2227,
+    "major": "2122东北财经大学（辽宁•大连）@旅游管理类（含旅游管理和酒店管理）",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 618,
+    "rank": 6063,
+    "major": "2168东北财经大学（中外合作专业）（辽宁•大连）@工商管理类（中外合作办学）[工商管理（跨国公司管理方向）]",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 611,
+    "rank": 7438,
+    "major": "2168东北财经大学（中外合作专业）（辽宁•大连）@旅游管理类（中外合作办学）[旅游管理（休闲与服务管理方向）]",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1551,
+    "major": "2220吉林大学（吉林•长春）@人文科学试验班（文学与史学，匡亚明班）",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1871,
+    "major": "2220吉林大学（吉林•长春）@新闻学",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1843,
+    "major": "2220吉林大学（吉林•长春）@广告学",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1744,
+    "major": "2220吉林大学（吉林•长春）@西班牙语",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1691,
+    "major": "2220吉林大学（吉林•长春）@金融学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 655,
+    "rank": 1277,
+    "major": "2220吉林大学（吉林•长春）@法学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 648,
+    "rank": 1810,
+    "major": "2220吉林大学（吉林•长春）@国际政治",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1835,
+    "major": "2220吉林大学（吉林•长春）@外交学",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6457,
+    "major": "2242延边大学（吉林•延吉）@朝鲜语",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 613,
+    "rank": 6979,
+    "major": "2242延边大学（吉林•延吉）@法学",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6768,
+    "major": "2242延边大学（吉林•延吉）@工商管理类（工商管理、会计学、市场营销、旅游管理、信息管理与信息系统）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 613,
+    "rank": 7032,
+    "major": "2242延边大学（吉林•延吉）@经济学类（国际经济与贸易、经济学）",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 613,
+    "rank": 6871,
+    "major": "2242延边大学（吉林•延吉）@汉语言文学",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 610,
+    "rank": 7548,
+    "major": "2210长春理工大学（吉林•长春）@俄语",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 608,
+    "rank": 7965,
+    "major": "2210长春理工大学（吉林•长春）@英语",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 607,
+    "rank": 8216,
+    "major": "2210长春理工大学（吉林•长春）@汉语言文学",
+    "avg_score": 608
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 606,
+    "rank": 8387,
+    "major": "2210长春理工大学（吉林•长春）@汉语国际教育",
+    "avg_score": 606
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 609,
+    "rank": 7706,
+    "major": "2210长春理工大学（吉林•长春）@广告学",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 606,
+    "rank": 8299,
+    "major": "2210长春理工大学（吉林•长春）@翻译",
+    "avg_score": 610
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 627,
+    "rank": 4406,
+    "major": "2218东北师范大学（吉林•长春）@*思想政治教育（公费师范）",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3882,
+    "major": "2218东北师范大学（吉林•长春）@*汉语言文学（公费师范）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 638,
+    "rank": 2845,
+    "major": "2218东北师范大学（吉林•长春）@*历史学（公费师范）",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2854,
+    "major": "2218东北师范大学（吉林•长春）@汉语言文学（非公费师范，成绩优秀者可本硕连读）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 637,
+    "rank": 3020,
+    "major": "2218东北师范大学（吉林•长春）@俄语",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 635,
+    "rank": 3296,
+    "major": "2218东北师范大学（吉林•长春）@思想政治教育",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 612,
+    "rank": 7262,
+    "major": "2245东北师范大学（中外合作专业）（吉林•长春）@金融学类（中外合作办学）（金融学，中美合作，录取有专业志愿考生）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 607,
+    "rank": 8250,
+    "major": "2245东北师范大学（中外合作专业）（吉林•长春）@物流管理与工程类（中外合作办学）（供应链管理，中美合作，招志愿考生）",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 610,
+    "rank": 7642,
+    "major": "2245东北师范大学（中外合作专业）（吉林•长春）@公共管理类（中外合作办学）",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 609,
+    "rank": 7781,
+    "major": "2323黑龙江大学（黑龙江•哈尔滨）@哲学",
+    "avg_score": 610
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6572,
+    "major": "2323黑龙江大学（黑龙江•哈尔滨）@法学（法学院授课）",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 609,
+    "rank": 7805,
+    "major": "2323黑龙江大学（黑龙江•哈尔滨）@汉语言文学",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 608,
+    "rank": 7977,
+    "major": "2323黑龙江大学（黑龙江•哈尔滨）@汉语国际教育",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 612,
+    "rank": 7168,
+    "major": "2323黑龙江大学（黑龙江•哈尔滨）@英语",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 610,
+    "rank": 7649,
+    "major": "2323黑龙江大学（黑龙江•哈尔滨）@翻译",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 613,
+    "rank": 6890,
+    "major": "2323黑龙江大学（黑龙江•哈尔滨）@法学（中俄学院授课）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 649,
+    "rank": 1720,
+    "major": "2309哈尔滨工业大学（黑龙江•哈尔滨）@经济管理试验班",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1924,
+    "major": "2309哈尔滨工业大学（黑龙江•哈尔滨）@经济学类",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 646,
+    "rank": 1995,
+    "major": "2309哈尔滨工业大学（黑龙江•哈尔滨）@设计学类（含数字媒体艺术、数字媒体技术）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1853,
+    "major": "2309哈尔滨工业大学（黑龙江•哈尔滨）@法学",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 646,
+    "rank": 2046,
+    "major": "2309哈尔滨工业大学（黑龙江•哈尔滨）@英语",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 615,
+    "rank": 6645,
+    "major": "2304东北农业大学（黑龙江•哈尔滨）@工商管理类（管理学II）",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6828,
+    "major": "2303东北林业大学（黑龙江•哈尔滨）@工商管理类（含工商管理、会计学、市场营销、公共事业管理、旅游管理、农林经济管理）",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 613,
+    "rank": 7015,
+    "major": "2303东北林业大学（黑龙江•哈尔滨）@日语",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6855,
+    "major": "2303东北林业大学（黑龙江•哈尔滨）@法学",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 613,
+    "rank": 6969,
+    "major": "2303东北林业大学（黑龙江•哈尔滨）@政治学与行政学",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 614,
+    "rank": 6833,
+    "major": "2303东北林业大学（黑龙江•哈尔滨）@广告学",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 697,
+    "rank": 39,
+    "major": "3102复旦大学（上海}@社会科学试验班",
+    "avg_score": 697
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 697,
+    "rank": 44,
+    "major": "3102复旦大学（上海}@新闻传播学类（卓越新闻人才计划）",
+    "avg_score": 698
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 696,
+    "rank": 46,
+    "major": "3102复旦大学（上海}@法学（卓越法律人才基地）",
+    "avg_score": 696
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 697,
+    "rank": 42,
+    "major": "3102复旦大学（上海}@经济学类",
+    "avg_score": 700
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 664,
+    "rank": 731,
+    "major": "3165同济大学（上海）@社会科学试验班（管理学类）",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 672,
+    "rank": 421,
+    "major": "3165同济大学（上海）@建筑学（五年制）",
+    "avg_score": 672
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 663,
+    "rank": 775,
+    "major": "3165同济大学（上海）@城乡规划（五年制）",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 663,
+    "rank": 794,
+    "major": "3165同济大学（上海）@新闻传播学类",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 828,
+    "major": "3165同济大学（上海）@德语",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 661,
+    "rank": 884,
+    "major": "3165同济大学（上海）@英语",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 896,
+    "major": "3165同济大学（上海）@曰语",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 665,
+    "rank": 669,
+    "major": "3165同济大学（上海）@法学",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 661,
+    "rank": 871,
+    "major": "3165同济大学（上海）@政治学与行政学",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 895,
+    "major": "3165同济大学（上海）@社会学",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 662,
+    "rank": 840,
+    "major": "3165同济大学（上海）@人文科学试验班",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 685,
+    "rank": 123,
+    "major": "3131上海交通大学（上海）@经济学类",
+    "avg_score": 688
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 658,
+    "rank": 1072,
+    "major": "3104华东理工大学（上海）@经济学类（含经济学、金融学专业）",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 653,
+    "rank": 1438,
+    "major": "3104华东理工大学（上海）@工商管理类（含工商管理、市场营销、人力资源管理专业）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 655,
+    "rank": 1256,
+    "major": "3104华东理工大学（上海）@会计学（含会计学、财务管理专业）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1537,
+    "major": "3104华东理工大学（上海）@国际经济与贸易",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 650,
+    "rank": 1712,
+    "major": "3104华东理工大学（上海）@社会学",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 646,
+    "rank": 2011,
+    "major": "3104华东理工大学（上海）@社会工作",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 646,
+    "rank": 2025,
+    "major": "3104华东理工大学（上海）@公共事业管理",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 650,
+    "rank": 1659,
+    "major": "3104华东理工大学（上海）@行政管理",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 646,
+    "rank": 2048,
+    "major": "3104华东理工大学（上海）@劳动与社会保障",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1658,
+    "major": "3104华东理工大学（上海）@工业设计",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1806,
+    "major": "3104华东理工大学（上海）@风景园林",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 647,
+    "rank": 1937,
+    "major": "3104华东理工大学（上海）@英语",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 651,
+    "rank": 1603,
+    "major": "3104华东理工大学（上海）@德语",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 647,
+    "rank": 1978,
+    "major": "3104华东理工大学（上海）@日语",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 649,
+    "rank": 1793,
+    "major": "3104华东理工大学（上海）@法学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3368,
+    "major": "3136上海理工大学（上海）@经济与贸易类",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 643,
+    "rank": 2278,
+    "major": "3136上海理工大学（上海）@金融学类",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 634,
+    "rank": 3448,
+    "major": "3136上海理工大学（上海）@税收学",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 632,
+    "rank": 3754,
+    "major": "3136上海理工大学（上海）@管理科学与工程类",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3864,
+    "major": "3136上海理工大学（上海）@英语（科技翻译）",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3875,
+    "major": "3136上海理工大学（上海）@日语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 634,
+    "rank": 3352,
+    "major": "3136上海理工大学（上海）@德语",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 630,
+    "rank": 3907,
+    "major": "3136上海理工大学（上海）@外国语言文学类（中外合作办学）[英语（金融与投资）（中美合作）]",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 632,
+    "rank": 3703,
+    "major": "3136上海理工大学（上海）@新闻传播学类",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3207,
+    "major": "3136上海理工大学（上海）@经济与贸易类（中外合作办学）[国际经济与贸易（中德合作）]",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 636,
+    "rank": 3174,
+    "major": "3125上海海事大学（上海）@经济学类（大类招生）",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 637,
+    "rank": 2956,
+    "major": "3125上海海事大学（上海）@会计学",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 633,
+    "rank": 3486,
+    "major": "3125上海海事大学（上海）@工商管理类（大类招生）",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 633,
+    "rank": 3520,
+    "major": "3125上海海事大学（上海）@外国语言文学类（大类招生）",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3445,
+    "major": "3125上海海事大学（上海）@日语",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3543,
+    "major": "3125上海海事大学（上海）@行政管理",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 644,
+    "rank": 2208,
+    "major": "3125上海海事大学（上海）@法学（海商法）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 641,
+    "rank": 2591,
+    "major": "3125上海海事大学（上海）@交通管理（航运管理）",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1483,
+    "major": "3101东华大学（上海）@经济与贸易类",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 651,
+    "rank": 1617,
+    "major": "3101东华大学（上海）@经济管理试验班",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 649,
+    "rank": 1769,
+    "major": "3101东华大学（上海）@工业设计",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 648,
+    "rank": 1807,
+    "major": "3101东华大学（上海）@英语",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1648,
+    "major": "3101东华大学（上海）@日语",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1344,
+    "major": "3101东华大学（上海）@公共管理类",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 650,
+    "rank": 1630,
+    "major": "3101东华大学（上海）@新闻传播学类",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 664,
+    "rank": 710,
+    "major": "3105华东师范大学（上海）@汉语言文学",
+    "avg_score": 667
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 744,
+    "major": "3105华东师范大学（上海）@汉语国际教育",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 760,
+    "major": "3105华东师范大学（上海）@英语",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 931,
+    "major": "3105华东师范大学（上海）@翻译",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 664,
+    "rank": 734,
+    "major": "3105华东师范大学（上海）@德语",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 903,
+    "major": "3105华东师范大学（上海）@法语",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 663,
+    "rank": 799,
+    "major": "3105华东师范大学（上海）@金融学类",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 660,
+    "rank": 910,
+    "major": "3105华东师范大学（上海）@工商管理类",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 901,
+    "major": "3105华东师范大学（上海）@公共管理类",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 663,
+    "rank": 786,
+    "major": "3105华东师范大学（上海）@人文地理与城乡规划",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 660,
+    "rank": 909,
+    "major": "3105华东师范大学（上海）@新闻传播学类",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 661,
+    "rank": 875,
+    "major": "3105华东师范大学（上海）@历史学",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 914,
+    "major": "3105华东师范大学（上海）@政治学类",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 663,
+    "rank": 766,
+    "major": "3105华东师范大学（上海）@法学",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 661,
+    "rank": 888,
+    "major": "3105华东师范大学（上海）@社会学类",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 661,
+    "rank": 876,
+    "major": "3105华东师范大学（上海）@公共事业管理（教育管理方向）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 660,
+    "rank": 933,
+    "major": "3105华东师范大学（上海）@学前教育类（师范）",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 661,
+    "rank": 887,
+    "major": "3151上海外国语大学（上海）@*俄语",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 658,
+    "rank": 1039,
+    "major": "3151上海外国语大学（上海）@*阿拉伯语",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 1013,
+    "major": "3151上海外国语大学（上海）@*日语",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 952,
+    "major": "3151上海外国语大学（上海）@*朝鲜语",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 970,
+    "major": "3151上海外国语大学（上海）@*越南语",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 664,
+    "rank": 704,
+    "major": "3151上海外国语大学（上海）@*匈牙利语",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 666,
+    "rank": 648,
+    "major": "3151上海外国语大学（上海）@金融学",
+    "avg_score": 666
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 663,
+    "rank": 765,
+    "major": "3151上海外国语大学（上海）@国际经济与贸易",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 940,
+    "major": "3151上海外国语大学（上海）@国际经济与贸易（日语）",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 842,
+    "major": "3151上海外国语大学（上海）@法学",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 809,
+    "major": "3151上海外国语大学（上海）@政治学与行政学",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 661,
+    "rank": 868,
+    "major": "3151上海外国语大学（上海）@国际政治",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 661,
+    "rank": 855,
+    "major": "3151上海外国语大学（上海）@教育技术学",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 837,
+    "major": "3151上海外国语大学（上海）@汉语国际教育",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 664,
+    "rank": 750,
+    "major": "3151上海外国语大学（上海）@英语",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 939,
+    "major": "3151上海外国语大学（上海）@英语（教育）",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 668,
+    "rank": 564,
+    "major": "3151上海外国语大学（上海）@德语",
+    "avg_score": 668
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 669,
+    "rank": 522,
+    "major": "3151上海外国语大学（上海）@德语（经济学）",
+    "avg_score": 669
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 679,
+    "rank": 225,
+    "major": "3151上海外国语大学（上海）@法语",
+    "avg_score": 679
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 663,
+    "rank": 770,
+    "major": "3151上海外国语大学（上海）@西班牙语（企业管理）",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 666,
+    "rank": 646,
+    "major": "3151上海外国语大学（上海）@葡萄牙语",
+    "avg_score": 666
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 665,
+    "rank": 695,
+    "major": "3151上海外国语大学（上海）@意大利语",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 665,
+    "rank": 661,
+    "major": "3151上海外国语大学（上海）@翻译",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 943,
+    "major": "3151上海外国语大学（上海）@商务英语",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 816,
+    "major": "3151上海外国语大学（上海）@新闻学（国际新闻）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 818,
+    "major": "3151上海外国语大学（上海）@广播电视学",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 955,
+    "major": "3151上海外国语大学（上海）@广告学",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 661,
+    "rank": 873,
+    "major": "3151上海外国语大学（上海）@网络与新媒体",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 941,
+    "major": "3151上海外国语大学（上海）@信息管理与信息系统",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 893,
+    "major": "3151上海外国语大学（上海）@工商管理",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 929,
+    "major": "3151上海外国语大学（上海）@会计学",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 907,
+    "major": "3151上海外国语大学（上海）@公共关系学",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 684,
+    "rank": 144,
+    "major": "3109上海财经大学（上海）@会计学",
+    "avg_score": 687
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 684,
+    "rank": 141,
+    "major": "3109上海财经大学（上海）@财务管理",
+    "avg_score": 684
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 684,
+    "rank": 131,
+    "major": "3109上海财经大学（上海）@金融学",
+    "avg_score": 689
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 680,
+    "rank": 208,
+    "major": "3109上海财经大学（上海）@国际经济与贸易",
+    "avg_score": 682
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 682,
+    "rank": 162,
+    "major": "3109上海财经大学（上海）@工商管理类",
+    "avg_score": 683
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 675,
+    "rank": 308,
+    "major": "3109上海财经大学（上海）@法学类",
+    "avg_score": 679
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 677,
+    "rank": 270,
+    "major": "3109上海财经大学（上海）@商务英语",
+    "avg_score": 677
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1417,
+    "major": "3119上海对外经贸大学（上海）@国际经济与贸易",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 647,
+    "rank": 1901,
+    "major": "3119上海对外经贸大学（上海）@英语",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1817,
+    "major": "3119上海对外经贸大学（上海）@工商管理类",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1250,
+    "major": "3119上海对外经贸大学（上海）@会计学（国际会计方向）",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2091,
+    "major": "3119上海对外经贸大学（上海）@物流管理与工程类（中外合作办学）（物流管理，中澳合作）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 646,
+    "rank": 1991,
+    "major": "3119上海对外经贸大学（上海）@金融学类（中外合作办学）（金融学，中加合作）",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1688,
+    "major": "3119上海对外经贸大学（上海）@法学（国际经济法方向）",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2164,
+    "major": "3119上海对外经贸大学（上海）@外国语言文学类（中外合作办学）（英语，国际商务英语方向，中英合作）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1766,
+    "major": "3119上海对外经贸大学（上海）@法语（商务法语方向）",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2158,
+    "major": "3119上海对外经贸大学（上海）@工商管理类（中外合作办学）（财务管理，中加合作）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1676,
+    "major": "3119上海对外经贸大学（上海）@审计学（注册会计师方向）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2170,
+    "major": "3119上海对外经贸大学（上海）@工商管理类（中外合作办学）（国际商务，中澳合作）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1849,
+    "major": "3119上海对外经贸大学（上海）@资产评估",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2090,
+    "major": "3119上海对外经贸大学（上海）@旅游管理类（中外合作办学）（会展经济与管理，中德合作）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 617,
+    "rank": 6129,
+    "major": "3106华东政法大学（上海）@*侦查学（刑事侦查）",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 609,
+    "rank": 7826,
+    "major": "3106华东政法大学（上海）@*治安学",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 622,
+    "rank": 5252,
+    "major": "3106华东政法大学（上海）@*边防管理",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 625,
+    "rank": 4815,
+    "major": "3106华东政法大学（上海）@*侦查学（经济侦查）",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 663,
+    "rank": 797,
+    "major": "3106华东政法大学（上海）@法学（民商法律）",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 658,
+    "rank": 1043,
+    "major": "3106华东政法大学（上海）@法学（刑事法律）",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 666,
+    "rank": 634,
+    "major": "3106华东政法大学（上海）@法学（本硕贯通卓越法律人才实验班）",
+    "avg_score": 669
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 660,
+    "rank": 923,
+    "major": "3106华东政法大学（上海）@法学（经济法）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 925,
+    "major": "3106华东政法大学（上海）@法学（涉外卓越商事法律人才实验班）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 664,
+    "rank": 725,
+    "major": "3106华东政法大学（上海）@法学（国际经济法）",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 951,
+    "major": "3106华东政法大学（上海）@法学（沪港交流涉外卓越法律人才实验班）",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 658,
+    "rank": 1053,
+    "major": "3106华东政法大学（上海）@法学（涉外卓越国际金融法律人才实验班）",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 993,
+    "major": "3106华东政法大学（上海）@知识产权（卓越人才实验班）",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 657,
+    "rank": 1134,
+    "major": "3106华东政法大学（上海）@国际经济与贸易",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 658,
+    "rank": 1059,
+    "major": "3106华东政法大学（上海）@金融学",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 964,
+    "major": "3106华东政法大学（上海）@会计学",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 657,
+    "rank": 1126,
+    "major": "3106华东政法大学（上海）@行政管理",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1139,
+    "major": "3106华东政法大学（上海）@劳动与社会保障",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 984,
+    "major": "3106华东政法大学（上海）@公共事业管理",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 974,
+    "major": "3106华东政法大学（上海）@政治学与行政学",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 833,
+    "major": "3106华东政法大学（上海）@新闻学（法制新闻）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 938,
+    "major": "3106华东政法大学（上海）@新闻学（卓越人才实验班）",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 981,
+    "major": "3106华东政法大学（上海）@汉语言文学（法商文秘）",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 657,
+    "rank": 1135,
+    "major": "3106华东政法大学（上海）@英语（涉外法商）",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 657,
+    "rank": 1105,
+    "major": "3106华东政法大学（上海）@曰语（涉外法商）",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 657,
+    "rank": 1099,
+    "major": "3106华东政法大学（上海）@翻译（涉外法商）",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 658,
+    "rank": 1061,
+    "major": "3106华东政法大学（上海）@德语（涉外法商）",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1132,
+    "major": "3106华东政法大学（上海）@社会学",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 657,
+    "rank": 1142,
+    "major": "3106华东政法大学（上海）@社会学（社会管理）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 657,
+    "rank": 1119,
+    "major": "3106华东政法大学（上海）@社会工作",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 12,
+    "low_score": 655,
+    "rank": 1244,
+    "major": "3112上海大学（上海）@汉语言文学（代表人文社科类）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 654,
+    "rank": 1327,
+    "major": "3112上海大学（上海）@日语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 683,
+    "rank": 158,
+    "major": "3240南京大学（江苏•南京）@汉语言文学",
+    "avg_score": 683
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 680,
+    "rank": 202,
+    "major": "3240南京大学（江苏•南京）@历史学类",
+    "avg_score": 681
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 680,
+    "rank": 209,
+    "major": "3240南京大学（江苏•南京）@法学",
+    "avg_score": 681
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 680,
+    "rank": 199,
+    "major": "3240南京大学（江苏•南京）@公共管理类",
+    "avg_score": 682
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 682,
+    "rank": 172,
+    "major": "3240南京大学（江苏•南京）@新闻传播学类",
+    "avg_score": 682
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 681,
+    "rank": 182,
+    "major": "3240南京大学（江苏•南京）@信息管理与信息系统",
+    "avg_score": 682
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 681,
+    "rank": 192,
+    "major": "3240南京大学（江苏•南京）@社会学类",
+    "avg_score": 681
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 684,
+    "rank": 128,
+    "major": "3240南京大学（江苏•南京）@经济学类",
+    "avg_score": 685
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 682,
+    "rank": 177,
+    "major": "3240南京大学（江苏•南京）@工商管理类",
+    "avg_score": 683
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 680,
+    "rank": 205,
+    "major": "3240南京大学（江苏•南京）@英语",
+    "avg_score": 680
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 682,
+    "rank": 169,
+    "major": "3240南京大学（江苏•南京）@德语",
+    "avg_score": 682
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 680,
+    "rank": 210,
+    "major": "3240南京大学（江苏•南京）@西班牙语",
+    "avg_score": 681
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 656,
+    "rank": 1173,
+    "major": "3281苏州大学（江苏•苏州）@新闻传播学类",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 658,
+    "rank": 1079,
+    "major": "3281苏州大学（江苏•苏州）@中国语言文学类",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1254,
+    "major": "3281苏州大学（江苏•苏州）@教育学（师范）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 988,
+    "major": "3281苏州大学（江苏•苏州）@经济学",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 658,
+    "rank": 1066,
+    "major": "3281苏州大学（江苏•苏州）@法语（五年制）",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 658,
+    "rank": 1074,
+    "major": "3281苏州大学（江苏•苏州）@图书情报与档案管理类",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1143,
+    "major": "3281苏州大学（江苏•苏州）@日语",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1230,
+    "major": "3281苏州大学（江苏•苏州）@思想政治教育（师范）",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1231,
+    "major": "3281苏州大学（江苏•苏州）@朝鲜语",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 913,
+    "major": "3281苏州大学（江苏•苏州）@会计学",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 656,
+    "rank": 1204,
+    "major": "3281苏州大学（江苏•苏州）@法学",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 659,
+    "rank": 979,
+    "major": "3206东南大学（江苏•南京）@经济学类",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 657,
+    "rank": 1123,
+    "major": "3206东南大学（江苏•南京）@英语",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 657,
+    "rank": 1094,
+    "major": "3206东南大学（江苏•南京）@人文科学试验班",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1964,
+    "major": "3246南京航空航天大学（江苏•南京）@经济与贸易类（国际经济与贸易、金融学）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 650,
+    "rank": 1628,
+    "major": "3246南京航空航天大学（江苏•南京）@工商管理类（会计学、工商管理、市场营销）",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1939,
+    "major": "3246南京航空航天大学（江苏•南京）@法学",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 647,
+    "rank": 1916,
+    "major": "3246南京航空航天大学（江苏•南京）@政治学与行政学",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1948,
+    "major": "3246南京航空航天大学（江苏•南京）@公共事业管理",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1768,
+    "major": "3246南京航空航天大学（江苏•南京）@广播电视学",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 648,
+    "rank": 1842,
+    "major": "3246南京航空航天大学（江苏•南京）@英语（民航业务、国际贸易）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1898,
+    "major": "3246南京航空航天大学（江苏•南京）@日语",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 644,
+    "rank": 2172,
+    "major": "3251南京理工大学（江苏•南京）@法学",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 638,
+    "rank": 2861,
+    "major": "3251南京理工大学（江苏•南京）@社会工作",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 639,
+    "rank": 2747,
+    "major": "3251南京理工大学（江苏•南京）@英语",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 639,
+    "rank": 2763,
+    "major": "3251南京理工大学（江苏•南京）@日语",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 642,
+    "rank": 2408,
+    "major": "3251南京理工大学（江苏•南京）@广播电视学",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 639,
+    "rank": 2777,
+    "major": "3251南京理工大学（江苏•南京）@公共事业管理",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 628,
+    "rank": 4238,
+    "major": "3315中国矿业大学（江苏•徐州）@经济与贸易类（国际经济与贸易，金融学）",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 628,
+    "rank": 4324,
+    "major": "3315中国矿业大学（江苏•徐州）@行政管理",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 628,
+    "rank": 4228,
+    "major": "3315中国矿业大学（江苏•徐州）@法学",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 627,
+    "rank": 4368,
+    "major": "3315中国矿业大学（江苏•徐州）@中国语言文学类（汉语言文学、广播电视学）",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 627,
+    "rank": 4379,
+    "major": "3315中国矿业大学（江苏•徐州）@英语",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 630,
+    "rank": 3921,
+    "major": "3315中国矿业大学（江苏•徐州）@德语",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 615,
+    "rank": 6502,
+    "major": "3243南京工业大学（江苏•南京）@英语",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 615,
+    "rank": 6503,
+    "major": "3243南京工业大学（江苏•南京）@日语",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 617,
+    "rank": 6218,
+    "major": "3243南京工业大学（江苏•南京）@法学",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 620,
+    "rank": 5594,
+    "major": "3243南京工业大学（江苏•南京）@会计学",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 5854,
+    "major": "3243南京工业大学（江苏•南京）@金融学",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 616,
+    "rank": 6365,
+    "major": "3243南京工业大学（江苏•南京）@国际经济与贸易",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 618,
+    "rank": 5956,
+    "major": "3243南京工业大学（江苏•南京）@工商管理",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 615,
+    "rank": 6559,
+    "major": "3243南京工业大学（江苏•南京）@市场营销",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6533,
+    "major": "3273南京邮电大学（江苏•南京）@广告学",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6248,
+    "major": "3273南京邮电大学（江苏•南京）@英语",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 620,
+    "rank": 5524,
+    "major": "3273南京邮电大学（江苏•南京）@人力资源管理",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 619,
+    "rank": 5671,
+    "major": "3273南京邮电大学（江苏•南京）@经济学",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6615,
+    "major": "3273南京邮电大学（江苏•南京）@市场营销",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 615,
+    "rank": 6563,
+    "major": "3273南京邮电大学（江苏•南京）@行政管理",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 615,
+    "rank": 6632,
+    "major": "3273南京邮电大学（江苏•南京）@公共事业管理",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 5925,
+    "major": "3273南京邮电大学（江苏•南京）@日语",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 615,
+    "rank": 6594,
+    "major": "3273南京邮电大学（江苏•南京）@翻译",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2506,
+    "major": "3209河海大学（江苏•南京）@市场营销",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2024,
+    "major": "3209河海大学（江苏•南京）@财务管理",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 641,
+    "rank": 2544,
+    "major": "3209河海大学（江苏•南京）@会计学（常州校区）",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 644,
+    "rank": 2169,
+    "major": "3209河海大学（江苏•南京）@国际经济与贸易",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2571,
+    "major": "3209河海大学（江苏•南京）@劳动与社会保障",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2181,
+    "major": "3209河海大学（江苏•南京）@广播电视学",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2112,
+    "major": "3209河海大学（江苏•南京）@土地资源管理",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2143,
+    "major": "3209河海大学（江苏•南京）@法学",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2109,
+    "major": "3209河海大学（江苏•南京）@思想政治教育",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 642,
+    "rank": 2391,
+    "major": "3209河海大学（江苏•南京）@英语",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2629,
+    "major": "3209河海大学（江苏•南京）@法语",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2799,
+    "major": "3209河海大学（江苏•南京）@国际经济与贸易（常州校区）",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2493,
+    "major": "3209河海大学（江苏•南京）@工商管理（常州校区）",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 645,
+    "rank": 2154,
+    "major": "3216江南大学（江苏•无锡）@金融学",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 645,
+    "rank": 2156,
+    "major": "3216江南大学（江苏•无锡）@工商管理",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 651,
+    "rank": 1599,
+    "major": "3216江南大学（江苏•无锡）@会计学",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 645,
+    "rank": 2157,
+    "major": "3216江南大学（江苏•无锡）@国际经济与贸易",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2073,
+    "major": "3216江南大学（江苏•无锡）@小学教育（师范）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 11,
+    "low_score": 642,
+    "rank": 2472,
+    "major": "3216江南大学（江苏•无锡）@汉语言文学",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 642,
+    "rank": 2470,
+    "major": "3216江南大学（江苏•无锡）@英语",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 641,
+    "rank": 2543,
+    "major": "3216江南大学（江苏•无锡）@日语",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 12,
+    "low_score": 642,
+    "rank": 2382,
+    "major": "3216江南大学（江苏•无锡）@法学",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 641,
+    "rank": 2530,
+    "major": "3216江南大学（江苏•无锡）@社会工作",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 638,
+    "rank": 2908,
+    "major": "3327江南大学（中外合作专业）（江苏•无锡）@工商管理类（中外合作办学）",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 623,
+    "rank": 5103,
+    "major": "3220江苏大学（江苏•镇江）@财政学",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 618,
+    "rank": 5998,
+    "major": "3220江苏大学（江苏•镇江）@法学",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 6023,
+    "major": "3220江苏大学（江苏•镇江）@公共事业管理（医疗保险）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 622,
+    "rank": 5218,
+    "major": "3220江苏大学（江苏•镇江）@国际经济与贸易",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 630,
+    "rank": 3966,
+    "major": "3220江苏大学（江苏•镇江）@汉语国际教育",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 620,
+    "rank": 5549,
+    "major": "3220江苏大学（江苏•镇江）@会计学",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 620,
+    "rank": 5661,
+    "major": "3220江苏大学（江苏•镇江）@金融学",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 6034,
+    "major": "3220江苏大学（江苏•镇江）@人力资源管理",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 619,
+    "rank": 5694,
+    "major": "3220江苏大学（江苏•镇江）@日语",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 5922,
+    "major": "3220江苏大学（江苏•镇江）@英语",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 614,
+    "rank": 6797,
+    "major": "3267南京信息工程大学（江苏•南京）@法学",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6790,
+    "major": "3267南京信息工程大学（江苏•南京）@国际经济与贸易",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 614,
+    "rank": 6756,
+    "major": "3267南京信息工程大学（江苏•南京）@英语",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 614,
+    "rank": 6826,
+    "major": "3267南京信息工程大学（江苏•南京）@日语",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 614,
+    "rank": 6795,
+    "major": "3267南京信息工程大学（江苏•南京）@汉语国际教育",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 615,
+    "rank": 6656,
+    "major": "3267南京信息工程大学（江苏•南京）@金融工程",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2325,
+    "major": "3256南京农业大学（江苏•南京）@风景园林",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2147,
+    "major": "3256南京农业大学（江苏•南京）@国际经济与贸易",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2293,
+    "major": "3256南京农业大学（江苏•南京）@农林经济管理",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2475,
+    "major": "3256南京农业大学（江苏•南京）@电子商务",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2151,
+    "major": "3256南京农业大学（江苏•南京）@土地资源管理",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2717,
+    "major": "3256南京农业大学（江苏•南京）@行政管理",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2711,
+    "major": "3256南京农业大学（江苏•南京）@人力资源管理",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2702,
+    "major": "3256南京农业大学（江苏•南京）@劳动与社会保障",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2393,
+    "major": "3256南京农业大学（江苏•南京）@法学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2505,
+    "major": "3256南京农业大学（江苏•南京）@社会学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 647,
+    "rank": 1969,
+    "major": "3256南京农业大学（江苏•南京）@金融学",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1970,
+    "major": "3256南京农业大学（江苏•南京）@会计学",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2708,
+    "major": "3256南京农业大学（江苏•南京）@英语",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 639,
+    "rank": 2752,
+    "major": "3256南京农业大学（江苏•南京）@日语",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2669,
+    "major": "3316中国药科大学（江苏•南京）@国际经济与贸易（医药方向）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 656,
+    "rank": 1190,
+    "major": "3259南京师范大学（江苏•南京）@汉语言文学（基地班）",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1373,
+    "major": "3259南京师范大学（江苏•南京）@古典文献学",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1455,
+    "major": "3259南京师范大学（江苏•南京）@文化产业管理",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 651,
+    "rank": 1594,
+    "major": "3259南京师范大学（江苏•南京）@市场营销",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1369,
+    "major": "3259南京师范大学（江苏•南京）@教育学（师范）",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1559,
+    "major": "3259南京师范大学（江苏•南京）@小学教育（师范）",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1437,
+    "major": "3259南京师范大学（江苏•南京）@学前教育（师范）",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 656,
+    "rank": 1169,
+    "major": "3259南京师范大学（江苏•南京）@外国语言文学类（五年制）",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1282,
+    "major": "3259南京师范大学（江苏•南京）@英语（五年制）",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 652,
+    "rank": 1530,
+    "major": "3259南京师范大学（江苏•南京）@人文地理与城乡规划",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1469,
+    "major": "3259南京师范大学（江苏•南京）@网络与新媒体",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 650,
+    "rank": 1670,
+    "major": "3259南京师范大学（江苏•南京）@思想政治教育（师范）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 634,
+    "rank": 3385,
+    "major": "3257南京审计大学（江苏•南京）@经济学",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 635,
+    "rank": 3208,
+    "major": "3257南京审计大学（江苏•南京）@财政学",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 636,
+    "rank": 3105,
+    "major": "3257南京审计大学（江苏•南京）@金融学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3490,
+    "major": "3257南京审计大学（江苏•南京）@投资学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 2975,
+    "major": "3257南京审计大学（江苏•南京）@会计学",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2586,
+    "major": "3257南京审计大学（江苏•南京）@审计学",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 18,
+    "low_score": 616,
+    "rank": 6281,
+    "major": "3297西交利物浦大学（江苏•苏州）@工商管理类（中外合作办学）（含经济、会计、信管、市场等8个专业）",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 618,
+    "rank": 5937,
+    "major": "3297西交利物浦大学（江苏•苏州）@建筑类（中外合作办学）（含建筑学、城乡规划2个专业）",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 617,
+    "rank": 6221,
+    "major": "3297西交利物浦大学（江苏•苏州）@数学类（中外合作办学）（含金融数学、数学与应用数学2个专业）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 617,
+    "rank": 6238,
+    "major": "3297西交利物浦大学（江苏•苏州）@外国语言文学类（中外合作办学）（含英语、传播学、广播电视等6个专业）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1507,
+    "major": "3325中国人民大学（苏州校区）（江苏。苏州）@外国语言文学类（中外合作办学）（法语专业）",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 652,
+    "rank": 1497,
+    "major": "3325中国人民大学（苏州校区）（江苏。苏州）@金融学类（中外合作办学）（金融学专业）",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 653,
+    "rank": 1389,
+    "major": "3325中国人民大学（苏州校区）（江苏。苏州）@经济学类（中外合作办学）（国民经济管理专业）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 636,
+    "rank": 3205,
+    "major": "3404安徽大学（安徽•合肥）@汉语国际教育",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 633,
+    "rank": 3579,
+    "major": "3404安徽大学（安徽•合肥）@历史学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2275,
+    "major": "3404安徽大学（安徽•合肥）@双语言文学",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 633,
+    "rank": 3511,
+    "major": "3404安徽大学（安徽•合肥）@哲学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3320,
+    "major": "3404安徽大学（安徽•合肥）@应用心理学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2279,
+    "major": "3404安徽大学（安徽•合肥）@新闻学",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 636,
+    "rank": 3100,
+    "major": "3404安徽大学（安徽•合肥）@广播电视学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3454,
+    "major": "3404安徽大学（安徽•合肥）@广告学",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2740,
+    "major": "3404安徽大学（安徽•合肥）@经济学",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2548,
+    "major": "3404安徽大学（安徽•合肥）@金融学",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2803,
+    "major": "3404安徽大学（安徽•合肥）@国际经济与贸易",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2656,
+    "major": "3404安徽大学（安徽•合肥）@工商管理",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3289,
+    "major": "3404安徽大学（安徽•合肥）@市场营销",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2936,
+    "major": "3404安徽大学（安徽•合肥）@电子商务",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2559,
+    "major": "3404安徽大学（安徽•合肥）@会计学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3274,
+    "major": "3404安徽大学（安徽•合肥）@旅游管理",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2596,
+    "major": "3404安徽大学（安徽•合肥）@英语",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3519,
+    "major": "3404安徽大学（安徽•合肥）@日语",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2934,
+    "major": "3404安徽大学（安徽•合肥）@德语",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 3030,
+    "major": "3404安徽大学（安徽•合肥）@法语",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3585,
+    "major": "3404安徽大学（安徽•合肥）@国际事务与国际关系",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 619,
+    "rank": 5782,
+    "major": "3445合肥工业大学（安徽•合肥）@广告学",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 623,
+    "rank": 5114,
+    "major": "3445合肥工业大学（安徽•合肥）@法学（含知识产权）",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 619,
+    "rank": 5727,
+    "major": "3445合肥工业大学（安徽•合肥）@英语（国际贸易）",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 619,
+    "rank": 5800,
+    "major": "3445合肥工业大学（安徽•合肥）@思想政治教育",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 613,
+    "rank": 6879,
+    "major": "3457合肥工业大学（宣城校区）（安徽•宣城）@英语（商务）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 664,
+    "rank": 721,
+    "major": "3543厦门大学（福建•厦门）@新闻传播学类（含新闻学、广播电视学、广告学、传播学）",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 835,
+    "major": "3543厦门大学（福建•厦门）@英语",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 667,
+    "rank": 600,
+    "major": "3543厦门大学（福建•厦门）@人文科学试验班（含中国语言文学类、历史学类、哲学、人类学）",
+    "avg_score": 667
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 664,
+    "rank": 713,
+    "major": "3543厦门大学（福建•厦门）@法学类（含法学）",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 677,
+    "rank": 282,
+    "major": "3543厦门大学（福建•厦门）@公共管理类（含政治学与行政学、社会工作、社会学、行政管理）",
+    "avg_score": 677
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 662,
+    "rank": 821,
+    "major": "3543厦门大学（福建•厦门）@经济学类",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 675,
+    "rank": 319,
+    "major": "3543厦门大学（福建•厦门）@工商管理类",
+    "avg_score": 680
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 650,
+    "rank": 1671,
+    "major": "3562厦门大学（中外合作专业）（福建•厦门）@金融学类（中外合作办学）（金融学专业，只招收填报该中外合作办学项目志愿考生）",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 644,
+    "rank": 2205,
+    "major": "3562厦门大学（中外合作专业）（福建•厦门）@工商管理类（中外合作办学）（会计学专业，只招收填报该中外合作办学项目志愿考生）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 638,
+    "rank": 2857,
+    "major": "3563厦门大学（马来西亚分校招生专业）（马来西亚）@汉语言文学",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 636,
+    "rank": 3151,
+    "major": "3563厦门大学（马来西亚分校招生专业）（马来西亚）@会计学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 630,
+    "rank": 3931,
+    "major": "3563厦门大学（马来西亚分校招生专业）（马来西亚）@国际商务",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 616,
+    "rank": 6287,
+    "major": "3523华侨大学（福建•泉州）@经济学类（1+2+1中美联合培养国际班，国际经济与贸易专业，全英文教学）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 615,
+    "rank": 6527,
+    "major": "3523华侨大学（福建•泉州）@工商管理类（1+2+1中美联合培养国际班，全英文教学）",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 619,
+    "rank": 5849,
+    "major": "3523华侨大学（福建•泉州）@工商管理类（1+2+1中美联合培养囯际班，会计学专业，全英文文教学）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6292,
+    "major": "3523华侨大学（福建•泉州）@经济学",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6175,
+    "major": "3523华侨大学（福建•泉州）@金融学",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6139,
+    "major": "3523华侨大学（福建•泉州）@投资学",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 5952,
+    "major": "3523华侨大学（福建•泉州）@法学（涉外法律方向）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6214,
+    "major": "3523华侨大学（福建•泉州）@汉语言文学",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 618,
+    "rank": 5893,
+    "major": "3523华侨大学（福建•泉州）@广播电视学",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 615,
+    "rank": 6664,
+    "major": "3523华侨大学（福建•泉州）@广告学",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 615,
+    "rank": 6513,
+    "major": "3523华侨大学（福建•泉州）@英语",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 5958,
+    "major": "3523华侨大学（福建•泉州）@日语",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6102,
+    "major": "3523华侨大学（福建•泉州）@翻译",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 615,
+    "rank": 6661,
+    "major": "3523华侨大学（福建•泉州）@市场营销",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 618,
+    "rank": 6007,
+    "major": "3523华侨大学（福建•泉州）@会计学",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 618,
+    "rank": 5976,
+    "major": "3523华侨大学（福建•泉州）@国际商务",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6232,
+    "major": "3523华侨大学（福建•泉州）@人力资源管理",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6625,
+    "major": "3523华侨大学（福建•泉州）@物流管理",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6577,
+    "major": "3523华侨大学（福建•泉州）@公共事业管理（社会保障管理方向）",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6278,
+    "major": "3523华侨大学（福建•泉州）@旅游管理",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 614,
+    "rank": 6741,
+    "major": "3523华侨大学（福建•泉州）@酒店管理（厦航学院）",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 614,
+    "rank": 6717,
+    "major": "3523华侨大学（福建•泉州）@会展经济与管理",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6680,
+    "major": "3523华侨大学（福建•泉州）@国际事务与国际关系",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 615,
+    "rank": 6568,
+    "major": "3523华侨大学（福建•泉州）@汉语国际教育",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 629,
+    "rank": 4153,
+    "major": "3517福州大学（福建•福州）@英语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2491,
+    "major": "3517福州大学（福建•福州）@金融学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2396,
+    "major": "3517福州大学（福建•福州）@法学",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 639,
+    "rank": 2750,
+    "major": "3517福州大学（福建•福州）@工商管理",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 604,
+    "rank": 8883,
+    "major": "3517福州大学（福建•福州）@社会学",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 606,
+    "rank": 8401,
+    "major": "3517福州大学（福建•福州）@汉语言文学",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 612,
+    "rank": 7160,
+    "major": "3517福州大学（福建•福州）@公共管理类",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3348,
+    "major": "3646南昌大学（江西•南昌）@哲学",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 635,
+    "rank": 3298,
+    "major": "3646南昌大学（江西•南昌）@中国语言文学类（汉语言文学、汉语国际教育）",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 633,
+    "rank": 3466,
+    "major": "3646南昌大学（江西•南昌）@历史学类（历史学、档案学）",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 636,
+    "rank": 3185,
+    "major": "3646南昌大学（江西•南昌）@日语",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2868,
+    "major": "3646南昌大学（江西•南昌）@西班牙语",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 3011,
+    "major": "3646南昌大学（江西•南昌）@新闻学",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 634,
+    "rank": 3351,
+    "major": "3646南昌大学（江西•南昌）@英语",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 633,
+    "rank": 3488,
+    "major": "3646南昌大学（江西•南昌）@英语（英曰）",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2925,
+    "major": "3646南昌大学（江西•南昌）@法语",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2767,
+    "major": "3646南昌大学（江西•南昌）@法学类（法学、知识产权）",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2757,
+    "major": "3646南昌大学（江西•南昌）@金融学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2598,
+    "major": "3646南昌大学（江西•南昌）@工商管理类（工商管理、会计学）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 3005,
+    "major": "3646南昌大学（江西•南昌）@经济学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 3036,
+    "major": "3646南昌大学（江西•南昌）@经济统计学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 634,
+    "rank": 3401,
+    "major": "3646南昌大学（江西•南昌）@劳动与社会保障",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4277,
+    "major": "3607江西财经大学（江西•南昌）@经济学类（01含经济学、国民经济管理）",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3210,
+    "major": "3607江西财经大学（江西•南昌）@金融学类（01含金融学、保险学、金融工程）",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 622,
+    "rank": 5206,
+    "major": "3607江西财经大学（江西•南昌）@金融学（国际金融）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 621,
+    "rank": 5486,
+    "major": "3607江西财经大学（江西•南昌）@金融学（CFA方向）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 624,
+    "rank": 4896,
+    "major": "3607江西财经大学（江西•南昌）@法学类[01含法学、法学（法务会计）",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 626,
+    "rank": 4627,
+    "major": "3607江西财经大学（江西•南昌）@外国语言文学类（01含商务英语）",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 623,
+    "rank": 5013,
+    "major": "3607江西财经大学（江西•南昌）@管理科学与工程类（02含工程管理、房地产开发与管理）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3891,
+    "major": "3607江西财经大学（江西•南昌）@工商管理类[02含会计学、会计学（注册会计师）、财务管理]",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 627,
+    "rank": 4352,
+    "major": "3607江西财经大学（江西•南昌）@会计学（国际会计）",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 630,
+    "rank": 3976,
+    "major": "3607江西财经大学（江西•南昌）@公共管理类（01含劳动与社会保障、行政管理）",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 623,
+    "rank": 5120,
+    "major": "3607江西财经大学（江西•南昌）@物流管理与工程类（01含物流管理）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1502,
+    "major": "3607江西财经大学（江西•南昌）@哲学类",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1447,
+    "major": "3607江西财经大学（江西•南昌）@社会学类",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 655,
+    "rank": 1251,
+    "major": "3607江西财经大学（江西•南昌）@经济学类",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1451,
+    "major": "3607江西财经大学（江西•南昌）@公共管理类（青岛校区）",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1092,
+    "major": "3607江西财经大学（江西•南昌）@法学类（青岛校区）",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1154,
+    "major": "3607江西财经大学（江西•南昌）@中国语言文学类",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1309,
+    "major": "3607江西财经大学（江西•南昌）@新闻传播学类",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1122,
+    "major": "3607江西财经大学（江西•南昌）@英语",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1328,
+    "major": "3607江西财经大学（江西•南昌）@德语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1352,
+    "major": "3607江西财经大学（江西•南昌）@法语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1348,
+    "major": "3607江西财经大学（江西•南昌）@西班牙语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 653,
+    "rank": 1368,
+    "major": "3607江西财经大学（江西•南昌）@日语",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1545,
+    "major": "3607江西财经大学（江西•南昌）@朝鲜语",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1229,
+    "major": "3607江西财经大学（江西•南昌）@历史学类",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 652,
+    "rank": 1518,
+    "major": "3607江西财经大学（江西•南昌）@工商管理类",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1357,
+    "major": "3607江西财经大学（江西•南昌）@旅游管理类",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1495,
+    "major": "3607江西财经大学（江西•南昌）@汉语国际教育",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 1988,
+    "major": "3763中国海洋大学（山东•青岛）@物流管理",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1775,
+    "major": "3763中国海洋大学（山东•青岛）@工商管理",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2063,
+    "major": "3763中国海洋大学（山东•青岛）@市场营销",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 647,
+    "rank": 1918,
+    "major": "3763中国海洋大学（山东•青岛）@英语",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2113,
+    "major": "3763中国海洋大学（山东•青岛）@汉语言文学",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2086,
+    "major": "3763中国海洋大学（山东•青岛）@文化产业管理",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2020,
+    "major": "3763中国海洋大学（山东•青岛）@新闻传播学类",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2012,
+    "major": "3763中国海洋大学（山东•青岛）@政治学与行政学",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2104,
+    "major": "3763中国海洋大学（山东•青岛）@行政管理",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1876,
+    "major": "3732山东大字威海分校（山东•威海>@国际经济与贸易",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2474,
+    "major": "3732山东大字威海分校（山东•威海>@英语",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2055,
+    "major": "3732山东大字威海分校（山东•威海>@英语（英德双语）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2297,
+    "major": "3732山东大字威海分校（山东•威海>@英语（英法双语）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2197,
+    "major": "3732山东大字威海分校（山东•威海>@英语（英西双语）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2356,
+    "major": "3732山东大字威海分校（山东•威海>@朝鲜语",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2465,
+    "major": "3732山东大字威海分校（山东•威海>@新闻学",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2443,
+    "major": "3732山东大字威海分校（山东•威海>@市场营销",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2035,
+    "major": "3732山东大字威海分校（山东•威海>@会计学",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2387,
+    "major": "3777山东大学威海分校（中外合作专业）（山东•威海）@金融学类（中外合作办学）（中澳合作办学）",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 1019,
+    "major": "4055武汉大学（湖北•武汉）@*德语",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1111,
+    "major": "4055武汉大学（湖北•武汉）@*日语",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 705,
+    "major": "4055武汉大学（湖北•武汉）@人文科学试验班",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 726,
+    "major": "4055武汉大学（湖北•武汉）@中国语言文学类",
+    "avg_score": 667
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 711,
+    "major": "4055武汉大学（湖北•武汉）@历史学类",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 747,
+    "major": "4055武汉大学（湖北•武汉）@哲学类",
+    "avg_score": 670
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 664,
+    "rank": 741,
+    "major": "4055武汉大学（湖北•武汉）@心理学",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 739,
+    "major": "4055武汉大学（湖北•武汉）@英语（英语类）",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 668,
+    "rank": 577,
+    "major": "4055武汉大学（湖北•武汉）@新闻传播学类",
+    "avg_score": 669
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 666,
+    "rank": 651,
+    "major": "4055武汉大学（湖北•武汉）@图书情报与档案管理类（信息管理学类）",
+    "avg_score": 667
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 672,
+    "rank": 427,
+    "major": "4055武汉大学（湖北•武汉）@经济学类",
+    "avg_score": 675
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 664,
+    "rank": 761,
+    "major": "4055武汉大学（湖北•武汉）@工商管理类",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 669,
+    "rank": 531,
+    "major": "4055武汉大学（湖北•武汉）@法学",
+    "avg_score": 670
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 663,
+    "rank": 764,
+    "major": "4055武汉大学（湖北•武汉）@政治学类",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 727,
+    "major": "4055武汉大学（湖北•武汉）@公共管理类",
+    "avg_score": 665
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 656,
+    "rank": 1227,
+    "major": "4034华中科技大学（湖北•武汉）@城乡规划（五年制）",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1465,
+    "major": "4034华中科技大学（湖北•武汉）@工商管理",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1259,
+    "major": "4034华中科技大学（湖北•武汉）@国际商务（英语二学位）",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1532,
+    "major": "4034华中科技大学（湖北•武汉）@汉语言文学",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 658,
+    "rank": 1068,
+    "major": "4034华中科技大学（湖北•武汉）@新闻学",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 651,
+    "rank": 1544,
+    "major": "4034华中科技大学（湖北•武汉）@广告学",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 653,
+    "rank": 1441,
+    "major": "4034华中科技大学（湖北•武汉）@法学",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1509,
+    "major": "4034华中科技大学（湖北•武汉）@社会学",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1461,
+    "major": "4034华中科技大学（湖北•武汉）@德语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1562,
+    "major": "4034华中科技大学（湖北•武汉）@日语",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1488,
+    "major": "4034华中科技大学（湖北•武汉）@法语",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1194,
+    "major": "4034华中科技大学（湖北•武汉）@公共事业管理（卫生事业管理）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 638,
+    "rank": 2905,
+    "major": "4093中国地质大学（武汉）（湖北•武汉）@市场营销",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 644,
+    "rank": 2243,
+    "major": "4093中国地质大学（武汉）（湖北•武汉）@会计学",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 635,
+    "rank": 3206,
+    "major": "4093中国地质大学（武汉）（湖北•武汉）@英语",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3336,
+    "major": "4093中国地质大学（武汉）（湖北•武汉）@行政管理",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3416,
+    "major": "4093中国地质大学（武汉）（湖北•武汉）@思想政治教育",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 644,
+    "rank": 2238,
+    "major": "4072武汉理工大学（湖北•武汉）@新闻传播学类",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2937,
+    "major": "4072武汉理工大学（湖北•武汉）@法学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2766,
+    "major": "4072武汉理工大学（湖北•武汉）@英语",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2697,
+    "major": "4072武汉理工大学（湖北•武汉）@法语",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 2982,
+    "major": "4072武汉理工大学（湖北•武汉）@社会工作",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 2973,
+    "major": "4072武汉理工大学（湖北•武汉）@思想政治教育",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 637,
+    "rank": 2957,
+    "major": "4072武汉理工大学（湖北•武汉）@汉语国际教育",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 640,
+    "rank": 2620,
+    "major": "4072武汉理工大学（湖北•武汉）@工商管理类",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 639,
+    "rank": 2774,
+    "major": "4072武汉理工大学（湖北•武汉）@公共事业管理",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2479,
+    "major": "4072武汉理工大学（湖北•武汉）@金融学",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 633,
+    "rank": 3573,
+    "major": "4037华中农业大学（湖北•武汉）@经济学类",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 9,
+    "low_score": 628,
+    "rank": 4325,
+    "major": "4037华中农业大学（湖北•武汉）@工商管理类",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 624,
+    "rank": 4922,
+    "major": "4037华中农业大学（湖北•武汉）@英语",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 625,
+    "rank": 4680,
+    "major": "4037华中农业大学（湖北•武汉）@商务英语",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 624,
+    "rank": 4977,
+    "major": "4037华中农业大学（湖北•武汉）@广告学",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 630,
+    "rank": 4031,
+    "major": "4037华中农业大学（湖北•武汉）@社会学",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 9,
+    "low_score": 622,
+    "rank": 5192,
+    "major": "4037华中农业大学（湖北•武汉）@社会工作",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3357,
+    "major": "4037华中农业大学（湖北•武汉）@风景园林",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 626,
+    "rank": 4512,
+    "major": "4037华中农业大学（湖北•武汉）@行政管理",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 627,
+    "rank": 4432,
+    "major": "4037华中农业大学（湖北•武汉）@法学",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3562,
+    "major": "4032湖北中医药大学（湖北•武汉）@中医学（针灸推拿方向）（八年制）",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 622,
+    "rank": 5224,
+    "major": "4032湖北中医药大学（湖北•武汉）@中医学（八年制）",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1444,
+    "major": "4039华中师范大学（湖北•武汉）@*思想政治教育（师范）",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1405,
+    "major": "4039华中师范大学（湖北•武汉）@*汉语言文学（师范）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 657,
+    "rank": 1093,
+    "major": "4039华中师范大学（湖北•武汉）@*历史学（师范）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1408,
+    "major": "4039华中师范大学（湖北•武汉）@教育学类（含教育学、学前教育、特殊教育）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1702,
+    "major": "4039华中师范大学（湖北•武汉）@法学类（含法学、法学经济学交叉培养班）",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1686,
+    "major": "4039华中师范大学（湖北•武汉）@政治学类（含国际政治、哲学、思想政治教育）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 653,
+    "rank": 1445,
+    "major": "4039华中师范大学（湖北•武汉）@外国语言文学类（含英语、翻译）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1687,
+    "major": "4039华中师范大学（湖北•武汉）@日语",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 652,
+    "rank": 1512,
+    "major": "4039华中师范大学（湖北•武汉）@历史学类[含历史学（基地班）、历史学、历史学（文化遗产与文化产业）]",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1710,
+    "major": "4039华中师范大学（湖北•武汉）@新闻传播学类（含新闻学、广播电视学、网络与新媒体）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1554,
+    "major": "4039华中师范大学（湖北•武汉）@经济学类（含硿济学、国际经济与贸易、金融工程、工商管理、房地产经营管理、人力资源管理、财务会计教育、数学经济学交叉培养班、法学经济学交叉培养班）",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 953,
+    "major": "4095中南财经政法大学（湖北•武汉）@会计学",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 657,
+    "rank": 1140,
+    "major": "4095中南财经政法大学（湖北•武汉）@投资学",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 661,
+    "rank": 861,
+    "major": "4095中南财经政法大学（湖北•武汉）@经济管理试验班",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1164,
+    "major": "4095中南财经政法大学（湖北•武汉）@保险学（精算方向）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 663,
+    "rank": 771,
+    "major": "4095中南财经政法大学（湖北•武汉）@财务管理",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1137,
+    "major": "4095中南财经政法大学（湖北•武汉）@财政学",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 655,
+    "rank": 1257,
+    "major": "4095中南财经政法大学（湖北•武汉）@法学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1183,
+    "major": "4095中南财经政法大学（湖北•武汉）@法学（政府法制方向）",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 947,
+    "major": "4095中南财经政法大学（湖北•武汉）@工程管理",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1172,
+    "major": "4095中南财经政法大学（湖北•武汉）@工程造价",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1381,
+    "major": "4095中南财经政法大学（湖北•武汉）@工商管理",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1178,
+    "major": "4095中南财经政法大学（湖北•武汉）@国际商务",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1321,
+    "major": "4095中南财经政法大学（湖北•武汉）@汉语言文学",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 667,
+    "rank": 599,
+    "major": "4095中南财经政法大学（湖北•武汉）@会计学（注册会计师）",
+    "avg_score": 667
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 1012,
+    "major": "4095中南财经政法大学（湖北•武汉）@经济学",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1223,
+    "major": "4095中南财经政法大学（湖北•武汉）@人力资源管理",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 653,
+    "rank": 1454,
+    "major": "4095中南财经政法大学（湖北•武汉）@日语",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1343,
+    "major": "4095中南财经政法大学（湖北•武汉）@商务英语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1297,
+    "major": "4095中南财经政法大学（湖北•武汉）@市场营销",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1197,
+    "major": "4095中南财经政法大学（湖北•武汉）@税收学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1274,
+    "major": "4095中南财经政法大学（湖北•武汉）@物流管理",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1452,
+    "major": "4095中南财经政法大学（湖北•武汉）@新闻传播学类",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1238,
+    "major": "4095中南财经政法大学（湖北•武汉）@行政管理",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 626,
+    "rank": 4534,
+    "major": "4236郑州大学（河南•郑州）@汉语国际教育",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 632,
+    "rank": 3650,
+    "major": "4236郑州大学（河南•郑州）@新闻学",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3805,
+    "major": "4236郑州大学（河南•郑州）@广告学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 625,
+    "rank": 4678,
+    "major": "4236郑州大学（河南•郑州）@广播电视学",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 632,
+    "rank": 3707,
+    "major": "4236郑州大学（河南•郑州）@汉语言文学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 628,
+    "rank": 4262,
+    "major": "4236郑州大学（河南•郑州）@英语",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 629,
+    "rank": 4115,
+    "major": "4236郑州大学（河南•郑州）@人文科学试验班（国学方向）",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 626,
+    "rank": 4528,
+    "major": "4236郑州大学（河南•郑州）@行政管理",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 625,
+    "rank": 4757,
+    "major": "4236郑州大学（河南•郑州）@人力资源管理",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 625,
+    "rank": 4799,
+    "major": "4236郑州大学（河南•郑州）@社会工作",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 638,
+    "rank": 2855,
+    "major": "4236郑州大学（河南•郑州）@法学",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 626,
+    "rank": 4502,
+    "major": "4236郑州大学（河南•郑州）@经济统计学",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 626,
+    "rank": 4608,
+    "major": "4236郑州大学（河南•郑州）@会计学",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 634,
+    "rank": 3415,
+    "major": "4236郑州大学（河南•郑州）@金融学",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4326,
+    "major": "4236郑州大学（河南•郑州）@国际经济与贸易",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3768,
+    "major": "4236郑州大学（河南•郑州）@工商管理",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3844,
+    "major": "4236郑州大学（河南•郑州）@财务管理",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 625,
+    "rank": 4696,
+    "major": "4236郑州大学（河南•郑州）@市场营销",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 627,
+    "rank": 4454,
+    "major": "4236郑州大学（河南•郑州）@应用心理学",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4217,
+    "major": "4236郑州大学（河南•郑州）@教育学",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 612,
+    "rank": 7159,
+    "major": "4270郑州大学（中外合作专业）（河南•郑州）@经济学（中外合作办学）",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 612,
+    "rank": 7098,
+    "major": "4362湘潭大学（湖南•湘潭）@英语",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 612,
+    "rank": 7176,
+    "major": "4362湘潭大学（湖南•湘潭）@社会学",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6841,
+    "major": "4362湘潭大学（湖南•湘潭）@日语",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 613,
+    "rank": 6998,
+    "major": "4362湘潭大学（湖南•湘潭）@文化产业管理",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6771,
+    "major": "4362湘潭大学（湖南•湘潭）@翻译",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 615,
+    "rank": 6614,
+    "major": "4362湘潭大学（湖南•湘潭）@金融学",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 616,
+    "rank": 6263,
+    "major": "4362湘潭大学（湖南•湘潭）@会计学",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 6043,
+    "major": "4362湘潭大学（湖南•湘潭）@审计学",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6383,
+    "major": "4362湘潭大学（湖南•湘潭）@经济学",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6772,
+    "major": "4362湘潭大学（湖南•湘潭）@电子商务",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6679,
+    "major": "4362湘潭大学（湖南•湘潭）@市场营销",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 614,
+    "rank": 6848,
+    "major": "4362湘潭大学（湖南•湘潭）@行政管理",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6451,
+    "major": "4362湘潭大学（湖南•湘潭）@图书馆学",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6589,
+    "major": "4362湘潭大学（湖南•湘潭）@档案学",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 613,
+    "rank": 7071,
+    "major": "4362湘潭大学（湖南•湘潭）@旅游管理类",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6752,
+    "major": "4362湘潭大学（湖南•湘潭）@人力资源管理",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 623,
+    "rank": 5107,
+    "major": "4362湘潭大学（湖南•湘潭）@法学",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 615,
+    "rank": 6575,
+    "major": "4362湘潭大学（湖南•湘潭）@汉语言文学",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 613,
+    "rank": 6900,
+    "major": "4362湘潭大学（湖南•湘潭）@新闻学",
+    "avg_score": 614
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 612,
+    "rank": 7111,
+    "major": "4362湘潭大学（湖南•湘潭）@广播电视学",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6774,
+    "major": "4362湘潭大学（湖南•湘潭）@广告学",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6445,
+    "major": "4362湘潭大学（湖南•湘潭）@西班牙语",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1443,
+    "major": "4314湖南大学（湖南•长沙）@英语",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 651,
+    "rank": 1619,
+    "major": "4314湖南大学（湖南•长沙）@日语",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 653,
+    "rank": 1449,
+    "major": "4314湖南大学（湖南•长沙）@金融学类[包含金融学、金融（金融工程）、保险学]",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1476,
+    "major": "4314湖南大学（湖南•长沙）@法学（包含法学、政治学与行政学）",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 652,
+    "rank": 1489,
+    "major": "4314湖南大学（湖南•长沙）@行政管理",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1301,
+    "major": "4314湖南大学（湖南•长沙）@国际经济与贸易",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 651,
+    "rank": 1590,
+    "major": "4314湖南大学（湖南•长沙）@新闻传播学类（包含新闻学、广告学）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1440,
+    "major": "4314湖南大学（湖南•长沙）@汉语言文学",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 648,
+    "rank": 1822,
+    "major": "4365中南大学（湖南•长沙）@汉语言文学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1821,
+    "major": "4365中南大学（湖南•长沙）@数字出版",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 649,
+    "rank": 1719,
+    "major": "4365中南大学（湖南•长沙）@广播电视学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 654,
+    "rank": 1323,
+    "major": "4365中南大学（湖南•长沙）@法语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1576,
+    "major": "4365中南大学（湖南•长沙）@西班牙语",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1243,
+    "major": "4365中南大学（湖南•长沙）@国际经济与贸易",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 650,
+    "rank": 1711,
+    "major": "4365中南大学（湖南•长沙）@工商管理",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1286,
+    "major": "4365中南大学（湖南•长沙）@金融学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1264,
+    "major": "4365中南大学（湖南•长沙）@会计学",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1770,
+    "major": "4365中南大学（湖南•长沙）@财务管理",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1435,
+    "major": "4365中南大学（湖南•长沙）@法学",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1570,
+    "major": "4365中南大学（湖南•长沙）@行政管理",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 631,
+    "rank": 3877,
+    "major": "4342湖南师范大学（湖南•长沙）@法学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 628,
+    "rank": 4296,
+    "major": "4342湖南师范大学（湖南•长沙）@思想政治教育（师范）",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 623,
+    "rank": 5102,
+    "major": "4342湖南师范大学（湖南•长沙）@行政管理",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 627,
+    "rank": 4390,
+    "major": "4342湖南师范大学（湖南•长沙）@政治学与行政学",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4315,
+    "major": "4342湖南师范大学（湖南•长沙）@哲学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 3040,
+    "major": "4342湖南师范大学（湖南•长沙）@教育学（师范）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 637,
+    "rank": 2981,
+    "major": "4342湖南师范大学（湖南•长沙）@历史学（师范）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 630,
+    "rank": 4009,
+    "major": "4342湖南师范大学（湖南•长沙）@文化产业管理",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 623,
+    "rank": 5015,
+    "major": "4342湖南师范大学（湖南•长沙）@旅游管理",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2108,
+    "major": "4342湖南师范大学（湖南•长沙）@英语（师范）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 632,
+    "rank": 3616,
+    "major": "4342湖南师范大学（湖南•长沙）@俄语",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3537,
+    "major": "4342湖南师范大学（湖南•长沙）@日语",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 642,
+    "rank": 2478,
+    "major": "4342湖南师范大学（湖南•长沙）@朝鲜语",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2072,
+    "major": "4342湖南师范大学（湖南•长沙）@法语",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 636,
+    "rank": 3125,
+    "major": "4342湖南师范大学（湖南•长沙）@汉语言文学（师范）",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 630,
+    "rank": 3925,
+    "major": "4342湖南师范大学（湖南•长沙）@汉语国际教育（师范）",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3337,
+    "major": "4342湖南师范大学（湖南•长沙）@新闻学",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 630,
+    "rank": 4030,
+    "major": "4342湖南师范大学（湖南•长沙）@广播电视学",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4198,
+    "major": "4342湖南师范大学（湖南•长沙）@广告学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 629,
+    "rank": 4054,
+    "major": "4342湖南师范大学（湖南•长沙）@编辑出版学",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 632,
+    "rank": 3709,
+    "major": "4342湖南师范大学（湖南•长沙）@地理科学（师范）",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 622,
+    "rank": 5199,
+    "major": "4342湖南师范大学（湖南•长沙）@人文地理与城乡规划",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 662,
+    "rank": 807,
+    "major": "4436中山大学（广东•广州）@汉语言文学（广州）",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 664,
+    "rank": 756,
+    "major": "4436中山大学（广东•广州）@哲学（广州）",
+    "avg_score": 664
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 664,
+    "rank": 735,
+    "major": "4436中山大学（广东•广州）@社会学类（含社会学、社会工作专业）",
+    "avg_score": 668
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 669,
+    "rank": 530,
+    "major": "4436中山大学（广东•广州）@经济学类（岭南学院，含金融学、财政学、经济学专业）",
+    "avg_score": 674
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 661,
+    "rank": 847,
+    "major": "4436中山大学（广东•广州）@英语",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 662,
+    "rank": 820,
+    "major": "4436中山大学（广东•广州）@日语",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 661,
+    "rank": 853,
+    "major": "4436中山大学（广东•广州）@法学",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 668,
+    "rank": 553,
+    "major": "4436中山大学（广东•广州）@工商管理类（管理学院，含工商管理、会计学专业）",
+    "avg_score": 669
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 830,
+    "major": "4436中山大学（广东•广州）@新闻传播学类（含新闻学、传播学专业）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 662,
+    "rank": 802,
+    "major": "4436中山大学（广东•广州）@工商管理类（国际金融学院，含工商管理、会计学专业）",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 662,
+    "rank": 812,
+    "major": "4436中山大学（广东•广州）@外国语言文学类（含英语、阿拉伯语、西班牙语、朝鲜语、俄语专业）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 661,
+    "rank": 846,
+    "major": "4436中山大学（广东•广州）@国际政治",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 662,
+    "rank": 813,
+    "major": "4436中山大学（广东•广州）@图书情报与档案管理类（含图书馆学、档案学专业）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1511,
+    "major": "4428暨南大学（广东•广州）@汉语言文学（国家文科基地班）",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1283,
+    "major": "4428暨南大学（广东•广州）@新闻学",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1345,
+    "major": "4428暨南大学（广东•广州）@广播电视学",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1726,
+    "major": "4428暨南大学（广东•广州）@法语",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1276,
+    "major": "4428暨南大学（广东•广州）@会计学",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1303,
+    "major": "4428暨南大学（广东•广州）@金融学（全英语教学）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1734,
+    "major": "4428暨南大学（广东•广州）@汉语言文学（高级文秘）",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1392,
+    "major": "4428暨南大学（广东•广州）@广告学（网络与新媒体）",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1707,
+    "major": "4428暨南大学（广东•广州）@市场营销",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1528,
+    "major": "4428暨南大学（广东•广州）@翻译",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1760,
+    "major": "4428暨南大学（广东•广州）@旅游管理（高尔夫管理）",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 649,
+    "rank": 1747,
+    "major": "4428暨南大学（广东•广州）@电子商务",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 613,
+    "rank": 6971,
+    "major": "4428暨南大学（广东•广州）@汉语言文学",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6642,
+    "major": "4428暨南大学（广东•广州）@英语",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 622,
+    "rank": 5226,
+    "major": "4428暨南大学（广东•广州）@法学",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 625,
+    "rank": 4800,
+    "major": "4428暨南大学（广东•广州）@法学（涉外法务英语特色班）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 619,
+    "rank": 5731,
+    "major": "4428暨南大学（广东•广州）@行政管理",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 620,
+    "rank": 5664,
+    "major": "4428暨南大学（广东•广州）@工商管理类（工商管理、市场营销、会计学）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 614,
+    "rank": 6689,
+    "major": "4428暨南大学（广东•广州）@新闻传播学类（新闻学、广播电视学、广告学）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1828,
+    "major": "4424华南理工大学（广东•广州）@行政管理",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 657,
+    "rank": 1100,
+    "major": "4424华南理工大学（广东•广州）@工商管理类",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 650,
+    "rank": 1701,
+    "major": "4424华南理工大学（广东•广州）@传播学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1820,
+    "major": "4424华南理工大学（广东•广州）@广告学",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1944,
+    "major": "4424华南理工大学（广东•广州）@法学",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 659,
+    "rank": 990,
+    "major": "4424华南理工大学（广东•广州）@金融学",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 651,
+    "rank": 1615,
+    "major": "4424华南理工大学（广东•广州）@旅游管理",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1185,
+    "major": "4424华南理工大学（广东•广州）@会展经济与管理",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 615,
+    "rank": 6657,
+    "major": "4425华南农业大学（广东•广州）@旅游管理",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 616,
+    "rank": 6344,
+    "major": "4425华南农业大学（广东•广州）@经济学类（含经济学、金融学、国际经济与贸易专业）",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 632,
+    "rank": 3621,
+    "major": "4425华南农业大学（广东•广州）@工商管理类（含工商管理、人力资源管理、会计学、市场营销、电子商务、物流管理专业）",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 616,
+    "rank": 6386,
+    "major": "4425华南农业大学（广东•广州）@法学",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 615,
+    "rank": 6469,
+    "major": "4425华南农业大学（广东•广州）@汉语言文学",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 615,
+    "rank": 6588,
+    "major": "4425华南农业大学（广东•广州）@历史学",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 615,
+    "rank": 6522,
+    "major": "4425华南农业大学（广东•广州）@哲学",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 615,
+    "rank": 6640,
+    "major": "4425华南农业大学（广东•广州）@社会学类（含社会学、社会工作专业）",
+    "avg_score": 615
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 644,
+    "rank": 2176,
+    "major": "4422广州医科大学（广东•广州）@中医学（五年制）",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 640,
+    "rank": 2628,
+    "major": "4422广州医科大学（广东•广州）@康复治疗学",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 636,
+    "rank": 3133,
+    "major": "4422广州医科大学（广东•广州）@应用心理学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 636,
+    "rank": 3078,
+    "major": "4422广州医科大学（广东•广州）@国际经济与贸易",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6766,
+    "major": "4422广州医科大学（广东•广州）@公共事业管理",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3604,
+    "major": "4422广州医科大学（广东•广州）@保险学",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 625,
+    "rank": 4661,
+    "major": "4422广州医科大学（广东•广州）@英语",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 637,
+    "rank": 2942,
+    "major": "4422广州医科大学（广东•广州）@护理学",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2107,
+    "major": "4426华南师范大学（广东•广州）@学前教育（师范）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2068,
+    "major": "4426华南师范大学（广东•广州）@俄语",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2002,
+    "major": "4426华南师范大学（广东•广州）@地理科学（师范）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 647,
+    "rank": 1926,
+    "major": "4426华南师范大学（广东•广州）@经济学类（含经济学、金融学、国际经济与贸易专业）",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1729,
+    "major": "4426华南师范大学（广东•广州）@汉语言文学（师范）",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2658,
+    "major": "4440深圳大学（广东•深圳）@国际经济与贸易",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2877,
+    "major": "4440深圳大学（广东•深圳）@法学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 639,
+    "rank": 2826,
+    "major": "4440深圳大学（广东•深圳）@英语",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 652,
+    "rank": 1480,
+    "major": "4440深圳大学（广东•深圳）@广告学",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 636,
+    "rank": 3092,
+    "major": "4440深圳大学（广东•深圳）@工商管理",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2380,
+    "major": "4412广东外语外贸大学（广东•广州）@经济学类（经济学、经济统计学、税收学、财政学、国际经济与贸易5个专业）",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1886,
+    "major": "4412广东外语外贸大学（广东•广州）@金融学类（金融学、金融工程、保险学3个专业）",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 644,
+    "rank": 2207,
+    "major": "4412广东外语外贸大学（广东•广州）@法学（法律、国际经济法、民商法、知识产权法4个方向）",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 639,
+    "rank": 2808,
+    "major": "4412广东外语外贸大学（广东•广州）@社会工作",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 644,
+    "rank": 2182,
+    "major": "4412广东外语外贸大学（广东•广州）@中国语言文学类（汉语言文学、汉语言、汉语国际教育3个专业）",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1851,
+    "major": "4412广东外语外贸大学（广东•广州）@英语（语言学、英美文学、高级翻译、国际会展与旅游、文化与传播、语言信息管理6个方向）",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 648,
+    "rank": 1872,
+    "major": "4412广东外语外贸大学（广东•广州）@德语",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 650,
+    "rank": 1640,
+    "major": "4412广东外语外贸大学（广东•广州）@西班牙语",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 639,
+    "rank": 2721,
+    "major": "4412广东外语外贸大学（广东•广州）@印度尼西亚语",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 656,
+    "rank": 1189,
+    "major": "4412广东外语外贸大学（广东•广州）@翻译",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2137,
+    "major": "4412广东外语外贸大学（广东•广州）@商务英语（国际商务管理、国际贸易、国际金融、国际经济法4个方向）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 640,
+    "rank": 2652,
+    "major": "4412广东外语外贸大学（广东•广州）@工商管理类（工商管理、市场营销、人力资源管理、物流管理4个专业）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 645,
+    "rank": 2142,
+    "major": "4412广东外语外贸大学（广东•广州）@工商管理类（会计学、审计学、财务管理3个专业）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 641,
+    "rank": 2563,
+    "major": "4412广东外语外贸大学（广东•广州）@公共管理类（行政管理、公共事业管理、公共关系学3个专业）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 610,
+    "rank": 7665,
+    "major": "4402北京师范大学一番港浸会大学联合国际学院（广东•珠海）@工商管理类（中外合作办学）（财务管理）",
+    "avg_score": 610
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 614,
+    "rank": 6807,
+    "major": "4402北京师范大学一番港浸会大学联合国际学院（广东•珠海）@工商管理类（中外合作办学）（会计学）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 609,
+    "rank": 7722,
+    "major": "4402北京师范大学一番港浸会大学联合国际学院（广东•珠海）@工商管理类（中外合作办学）[市场营销（市场营销管理/电子商务与信息系统管理）]",
+    "avg_score": 609
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 609,
+    "rank": 7855,
+    "major": "4402北京师范大学一番港浸会大学联合国际学院（广东•珠海）@政治学类（中外合作办学）[国际政治（政治与国际关系）]",
+    "avg_score": 610
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 609,
+    "rank": 7748,
+    "major": "4402北京师范大学一番港浸会大学联合国际学院（广东•珠海）@外国语言文学类（中外合作办学）（英语）",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1383,
+    "major": "4447香港中文大学（深圳）（广东•深圳）@*人文科学试验班（翻译）",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 655,
+    "rank": 1240,
+    "major": "4447香港中文大学（深圳）（广东•深圳）@*经济管理试验班（国际商务、经济学、市场营销、金融学、会计学）",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 619,
+    "rank": 5784,
+    "major": "4504广西大学（广西•南宁）@工商管理（中美校际交流）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 628,
+    "rank": 4250,
+    "major": "4504广西大学（广西•南宁）@金融学（中美校际交流）",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 616,
+    "rank": 6321,
+    "major": "4504广西大学（广西•南宁）@公共事业管理",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 615,
+    "rank": 6506,
+    "major": "4504广西大学（广西•南宁）@应用心理学",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 616,
+    "rank": 6438,
+    "major": "4504广西大学（广西•南宁）@汉语国际教育",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 621,
+    "rank": 5379,
+    "major": "4504广西大学（广西•南宁）@国际经济与贸易",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 619,
+    "rank": 5836,
+    "major": "4602海南大学（海南•海口）@法学（卓越人才班）",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 619,
+    "rank": 5835,
+    "major": "4602海南大学（海南•海口）@工商管理类（会计学、财务管理、工商管理、市场营销、人力资源管理）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 620,
+    "rank": 5657,
+    "major": "4602海南大学（海南•海口）@金融学类（金融学、国际经济与贸易、经济统计学）",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 621,
+    "rank": 5324,
+    "major": "4602海南大学（海南•海口）@农林经济管理",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 10,
+    "low_score": 616,
+    "rank": 6376,
+    "major": "4602海南大学（海南•海口）@旅游管理类（旅游管理、酒店管理、会展经济与管理）",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 612,
+    "rank": 7199,
+    "major": "4602海南大学（海南•海口）@旅游管理类（中外合作办学）（会展经济与管理）",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 616,
+    "rank": 6342,
+    "major": "4602海南大学（海南•海口）@思想政治教育",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 619,
+    "rank": 5837,
+    "major": "4602海南大学（海南•海口）@中国语言文学类（汉语言文学、汉语国际教育）",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 619,
+    "rank": 5714,
+    "major": "4602海南大学（海南•海口）@新闻传播学类（广告学、传播学）",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 11,
+    "low_score": 616,
+    "rank": 6357,
+    "major": "4602海南大学（海南•海口）@外国语言文学类（英语、商务英语）",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 616,
+    "rank": 6396,
+    "major": "4602海南大学（海南•海口）@俄语",
+    "avg_score": 617
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 616,
+    "rank": 6406,
+    "major": "4602海南大学（海南•海口）@日语",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 5915,
+    "major": "4602海南大学（海南•海口）@公共管理类（行政管理、公共关系学、土地资源管理）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 623,
+    "rank": 5056,
+    "major": "4602海南大学（海南•海口）@法学",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 650,
+    "rank": 1680,
+    "major": "5011重庆大学（重庆）@新闻传播学类（新闻学、广播电视学）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 649,
+    "rank": 1725,
+    "major": "5011重庆大学（重庆）@英语",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 651,
+    "rank": 1549,
+    "major": "5011重庆大学（重庆）@德语",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 650,
+    "rank": 1650,
+    "major": "5011重庆大学（重庆）@日语",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1398,
+    "major": "5011重庆大学（重庆）@经济学类（经济学、国际经济与贸易）",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 650,
+    "rank": 1646,
+    "major": "5011重庆大学（重庆）@公共管理类（行政管理、城市管理）",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1732,
+    "major": "5011重庆大学（重庆）@法学",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 651,
+    "rank": 1563,
+    "major": "5011重庆大学（重庆）@人文科学试验班（汉语言文学、历史学、哲学、法学）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 651,
+    "rank": 1618,
+    "major": "5011重庆大学（重庆）@风景园林（五年制）",
+    "avg_score": 651
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 645,
+    "rank": 2155,
+    "major": "5005西南大学（重庆）@*学前教育（免费师范）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 641,
+    "rank": 2589,
+    "major": "5005西南大学（重庆）@*特殊教育（免费师范）",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1310,
+    "major": "5005西南大学（重庆）@*汉语言文学（免费师范）",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 649,
+    "rank": 1767,
+    "major": "5005西南大学（重庆）@*英语（免费师范）",
+    "avg_score": 650
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1275,
+    "major": "5005西南大学（重庆）@*地理科学（免费师范）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 646,
+    "rank": 2047,
+    "major": "5005西南大学（重庆）@法学",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 643,
+    "rank": 2323,
+    "major": "5005西南大学（重庆）@日语",
+    "avg_score": 643
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 644,
+    "rank": 2189,
+    "major": "5005西南大学（重庆）@德语",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 646,
+    "rank": 1994,
+    "major": "5005西南大学（重庆）@新闻学",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 646,
+    "rank": 1999,
+    "major": "5005西南大学（重庆）@文化产业管理",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 654,
+    "rank": 1360,
+    "major": "5007西南政法大学（重庆）@*治安学",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 604,
+    "rank": 8866,
+    "major": "5007西南政法大学（重庆）@*侦查学",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 608,
+    "rank": 7926,
+    "major": "5007西南政法大学（重庆）@*经济犯罪侦查",
+    "avg_score": 610
+  },
+  {
+    "enroll_num": 25,
+    "low_score": 649,
+    "rank": 1728,
+    "major": "5007西南政法大学（重庆）@法学",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1883,
+    "major": "5007西南政法大学（重庆）@思想政治教育",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1868,
+    "major": "5007西南政法大学（重庆）@行政管理",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 648,
+    "rank": 1838,
+    "major": "5007西南政法大学（重庆）@新闻传播学类",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 647,
+    "rank": 1936,
+    "major": "5007西南政法大学（重庆）@英语",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 6,
+    "low_score": 643,
+    "rank": 2321,
+    "major": "5086西南政法大学（中外合作专业）（重庆）@法学类（中外合作办学）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1192,
+    "major": "5120四川大学（四川•成都）@法学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1233,
+    "major": "5120四川大学（四川•成都）@档案学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 656,
+    "rank": 1158,
+    "major": "5120四川大学（四川•成都）@公共管理类",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1281,
+    "major": "5120四川大学（四川•成都）@社会工作",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 653,
+    "rank": 1377,
+    "major": "5120四川大学（四川•成都）@信息资源管理",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 654,
+    "rank": 1330,
+    "major": "5120四川大学（四川•成都）@国际经济与贸易",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 660,
+    "rank": 920,
+    "major": "5120四川大学（四川•成都）@经济学类",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1361,
+    "major": "5120四川大学（四川•成都）@历史学类",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1342,
+    "major": "5120四川大学（四川•成都）@旅游管理类",
+    "avg_score": 654
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 654,
+    "rank": 1350,
+    "major": "5120四川大学（四川•成都）@日语",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 657,
+    "rank": 1104,
+    "major": "5120四川大学（四川•成都）@新闻传播学类",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 657,
+    "rank": 1085,
+    "major": "5120四川大学（四川•成都）@汉语言文学（基地班）",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 636,
+    "rank": 3161,
+    "major": "5143西南交通大学（四川•成都}@传播学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 635,
+    "rank": 3276,
+    "major": "5143西南交通大学（四川•成都}@广告学",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 8,
+    "low_score": 636,
+    "rank": 3087,
+    "major": "5143西南交通大学（四川•成都}@外国语言文学类",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 636,
+    "rank": 3156,
+    "major": "5143西南交通大学（四川•成都}@汉语国际教育",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 636,
+    "rank": 3172,
+    "major": "5143西南交通大学（四川•成都}@公共事业管理",
+    "avg_score": 637
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 3029,
+    "major": "5143西南交通大学（四川•成都}@法学类",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 655,
+    "rank": 1284,
+    "major": "5141西南财经大学（四川•成都）@金融学",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1279,
+    "major": "5141西南财经大学（四川•成都）@金融学（双语实验班）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1285,
+    "major": "5141西南财经大学（四川•成都）@信用管理",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 653,
+    "rank": 1400,
+    "major": "5141西南财经大学（四川•成都）@经济学（基地班）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 653,
+    "rank": 1406,
+    "major": "5141西南财经大学（四川•成都）@工商管理",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 652,
+    "rank": 1510,
+    "major": "5141西南财经大学（四川•成都）@市场营销",
+    "avg_score": 652
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 659,
+    "rank": 982,
+    "major": "5141西南财经大学（四川•成都）@会计学",
+    "avg_score": 662
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 660,
+    "rank": 945,
+    "major": "5141西南财经大学（四川•成都）@审计学",
+    "avg_score": 660
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 653,
+    "rank": 1384,
+    "major": "5141西南财经大学（四川•成都）@财务管理",
+    "avg_score": 656
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 658,
+    "rank": 1047,
+    "major": "5141西南财经大学（四川•成都）@财务管理（双语实验班）",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 661,
+    "rank": 854,
+    "major": "5141西南财经大学（四川•成都）@会计学（双语实验班）",
+    "avg_score": 661
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1295,
+    "major": "5141西南财经大学（四川•成都）@税收学",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1241,
+    "major": "5141西南财经大学（四川•成都）@法学（法学一会计双学位班）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 652,
+    "rank": 1504,
+    "major": "5141西南财经大学（四川•成都）@商务英语",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 657,
+    "rank": 1144,
+    "major": "5141西南财经大学（四川•成都）@国际商务（双语实验班）",
+    "avg_score": 657
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1245,
+    "major": "5141西南财经大学（四川•成都）@国际经济与贸易（双语实验班）",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 655,
+    "rank": 1258,
+    "major": "5141西南财经大学（四川•成都）@人力资源管理",
+    "avg_score": 655
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6136,
+    "major": "5210贵州大学（贵州•贵阳）@经济与贸易类（含经济学、国际经济与贸易专业）",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 6017,
+    "major": "5210贵州大学（贵州•贵阳）@外国语言文学类（含英语、翻译、商务英语专业）",
+    "avg_score": 618
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 617,
+    "rank": 6142,
+    "major": "5210贵州大学（贵州•贵阳）@中国语言文学类（含汉语言文学、新闻学专业）",
+    "avg_score": 619
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 616,
+    "rank": 6417,
+    "major": "5210贵州大学（贵州•贵阳）@公共管理类（含行政管理、劳动与社会保障、城市管理专业）",
+    "avg_score": 616
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 618,
+    "rank": 5896,
+    "major": "5210贵州大学（贵州•贵阳）@工商管理类（含工商管理、市场营销、会计学、财务管理、人力资源管理、电子商务专业）",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 624,
+    "rank": 4899,
+    "major": "5210贵州大学（贵州•贵阳）@汉语言文学",
+    "avg_score": 625
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 631,
+    "rank": 3809,
+    "major": "5210贵州大学（贵州•贵阳）@财务管理",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4236,
+    "major": "5210贵州大学（贵州•贵阳）@保险学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 630,
+    "rank": 4048,
+    "major": "5210贵州大学（贵州•贵阳）@法学",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 628,
+    "rank": 4246,
+    "major": "5210贵州大学（贵州•贵阳）@政治学与行政学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 626,
+    "rank": 4592,
+    "major": "5210贵州大学（贵州•贵阳）@社会学",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 5,
+    "low_score": 626,
+    "rank": 4540,
+    "major": "5210贵州大学（贵州•贵阳）@英语",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 624,
+    "rank": 4923,
+    "major": "5210贵州大学（贵州•贵阳）@广播电视学",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 629,
+    "rank": 4188,
+    "major": "5210贵州大学（贵州•贵阳）@档案学",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 642,
+    "rank": 2418,
+    "major": "6144西北大学（陕西•西安）@经济学（基地班）",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3244,
+    "major": "6144西北大学（陕西•西安）@法学",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3477,
+    "major": "6144西北大学（陕西•西安）@中国语言文学类",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3529,
+    "major": "6144西北大学（陕西•西安）@英语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 634,
+    "rank": 3412,
+    "major": "6144西北大学（陕西•西安）@历史学（基地班）",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3584,
+    "major": "6144西北大学（陕西•西安）@工商管理类",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3588,
+    "major": "6144西北大学（陕西•西安）@公共管理类",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 632,
+    "rank": 3724,
+    "major": "6144西北大学（陕西•西安）@图书情报与档案管理类",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 631,
+    "rank": 3854,
+    "major": "6144西北大学（陕西•西安）@旅游管理",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 633,
+    "rank": 3599,
+    "major": "6144西北大学（陕西•西安）@汉语国际教育",
+    "avg_score": 633
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 658,
+    "rank": 1030,
+    "major": "6127西安交通大学（陕西•西安）@文科试验班类（人文社会科学）",
+    "avg_score": 659
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 657,
+    "rank": 1084,
+    "major": "6127西安交通大学（陕西•西安）@外国语言文学类",
+    "avg_score": 658
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 641,
+    "rank": 2496,
+    "major": "6145西北工业大学（陕西•西安）@法学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 640,
+    "rank": 2693,
+    "major": "6145西北工业大学（陕西•西安）@英语",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2324,
+    "major": "6145西北工业大学（陕西•西安）@国际经济与贸易",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 620,
+    "rank": 5622,
+    "major": "6116西安电子科技大学（陕西•西安）@日语",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 620,
+    "rank": 5636,
+    "major": "6116西安电子科技大学（陕西•西安）@翻译",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 622,
+    "rank": 5240,
+    "major": "6116西安电子科技大学（陕西•西安）@英语",
+    "avg_score": 624
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 622,
+    "rank": 5162,
+    "major": "6116西安电子科技大学（陕西•西安）@汉语言文学",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 611,
+    "rank": 7332,
+    "major": "6125西安建筑科技大学（陕西•西安）@法学",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 612,
+    "rank": 7115,
+    "major": "6125西安建筑科技大学（陕西•西安）@汉语国际教育",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 612,
+    "rank": 7193,
+    "major": "6125西安建筑科技大学（陕西•西安）@英语",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 611,
+    "rank": 7469,
+    "major": "6125西安建筑科技大学（陕西•西安）@会计学",
+    "avg_score": 613
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 612,
+    "rank": 7256,
+    "major": "6125西安建筑科技大学（陕西•西安）@国际经济与贸易",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 610,
+    "rank": 7634,
+    "major": "6102长安大学（陕西•西安）@*日语",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 621,
+    "rank": 5340,
+    "major": "6102长安大学（陕西•西安）@法学类",
+    "avg_score": 621
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 621,
+    "rank": 5401,
+    "major": "6102长安大学（陕西•西安）@公共管理类",
+    "avg_score": 622
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 621,
+    "rank": 5485,
+    "major": "6102长安大学（陕西•西安）@新闻传播学类",
+    "avg_score": 623
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 620,
+    "rank": 5576,
+    "major": "6102长安大学（陕西•西安）@英语",
+    "avg_score": 620
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 625,
+    "rank": 4709,
+    "major": "6147西北农林科技大学（陕西•杨凌）@社会学类（含社会学、社会工作）",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 625,
+    "rank": 4744,
+    "major": "6147西北农林科技大学（陕西•杨凌）@法学",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 624,
+    "rank": 4832,
+    "major": "6147西北农林科技大学（陕西•杨凌）@英语",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1872,
+    "major": "6108陕西师范大学（陕西•西安）@*汉语言文学（师范）",
+    "avg_score": 648
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 649,
+    "rank": 1786,
+    "major": "6108陕西师范大学（陕西•西安）@*历史学（师范）",
+    "avg_score": 649
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 643,
+    "rank": 2345,
+    "major": "6108陕西师范大学（陕西•西安）@*英语（师范）",
+    "avg_score": 644
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 628,
+    "rank": 4278,
+    "major": "6108陕西师范大学（陕西•西安）@外国语言文学类",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 627,
+    "rank": 4486,
+    "major": "6108陕西师范大学（陕西•西安）@社会学",
+    "avg_score": 632
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 625,
+    "rank": 4793,
+    "major": "6108陕西师范大学（陕西•西安）@公共事业管理（教育管理方向）",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 633,
+    "rank": 3542,
+    "major": "6139西安外国语大学（陕西•西安）@*俄语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 627,
+    "rank": 4409,
+    "major": "6139西安外国语大学（陕西•西安）@*阿拉伯语",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 627,
+    "rank": 4459,
+    "major": "6139西安外国语大学（陕西•西安）@*日语",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 631,
+    "rank": 3900,
+    "major": "6139西安外国语大学（陕西•西安）@*朝鲜语",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 630,
+    "rank": 3912,
+    "major": "6139西安外国语大学（陕西•西安）@经济学",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 630,
+    "rank": 3929,
+    "major": "6139西安外国语大学（陕西•西安）@国际经济与贸易",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 630,
+    "rank": 4051,
+    "major": "6139西安外国语大学（陕西•西安）@国际政治",
+    "avg_score": 630
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 634,
+    "rank": 3419,
+    "major": "6139西安外国语大学（陕西•西安）@外交学",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 629,
+    "rank": 4109,
+    "major": "6139西安外国语大学（陕西•西安）@汉语言文学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 634,
+    "rank": 3369,
+    "major": "6139西安外国语大学（陕西•西安）@汉语国际教育",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 7,
+    "low_score": 626,
+    "rank": 4545,
+    "major": "6139西安外国语大学（陕西•西安）@英语",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 636,
+    "rank": 3186,
+    "major": "6139西安外国语大学（陕西•西安）@德语",
+    "avg_score": 636
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 634,
+    "rank": 3346,
+    "major": "6139西安外国语大学（陕西•西安）@法语",
+    "avg_score": 634
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 644,
+    "rank": 2265,
+    "major": "6139西安外国语大学（陕西•西安）@西班牙语",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 637,
+    "rank": 3072,
+    "major": "6139西安外国语大学（陕西•西安）@葡萄牙语",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3247,
+    "major": "6139西安外国语大学（陕西•西安）@意大利语",
+    "avg_score": 635
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 635,
+    "rank": 3236,
+    "major": "6139西安外国语大学（陕西•西安）@翻译",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 631,
+    "rank": 3765,
+    "major": "6139西安外国语大学（陕西•西安）@商务英语",
+    "avg_score": 631
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 628,
+    "rank": 4237,
+    "major": "6139西安外国语大学（陕西•西安）@新闻学",
+    "avg_score": 628
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 627,
+    "rank": 4456,
+    "major": "6139西安外国语大学（陕西•西安）@工商管理",
+    "avg_score": 627
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 626,
+    "rank": 4621,
+    "major": "6139西安外国语大学（陕西•西安）@国际商务",
+    "avg_score": 626
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 629,
+    "rank": 4084,
+    "major": "6139西安外国语大学（陕西•西安）@审计学",
+    "avg_score": 629
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2864,
+    "major": "6204兰州大学（甘肃•兰州）@汉语言文学",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2247,
+    "major": "6204兰州大学（甘肃•兰州）@新闻传播学类（含新闻学、广播电视学）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2907,
+    "major": "6204兰州大学（甘肃•兰州）@广告学",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2186,
+    "major": "6204兰州大学（甘肃•兰州）@历史学类（含基地班、历史学、世界史、文物与博物馆学）",
+    "avg_score": 645
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 646,
+    "rank": 2060,
+    "major": "6204兰州大学（甘肃•兰州）@经济学类（含基地班、经济学、国际经济与贸易、全融学、经济统计学）",
+    "avg_score": 647
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 644,
+    "rank": 2175,
+    "major": "6204兰州大学（甘肃•兰州）@工商管理类（含基地班、会计学、市场营销、人力资源管理、信息管理与信息系统、行政管理）",
+    "avg_score": 646
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2785,
+    "major": "6204兰州大学（甘肃•兰州）@政治学类（含国际政治、政治学与行政学）",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2477,
+    "major": "6204兰州大学（甘肃•兰州）@哲学",
+    "avg_score": 642
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2941,
+    "major": "6204兰州大学（甘肃•兰州）@日语",
+    "avg_score": 638
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 639,
+    "rank": 2724,
+    "major": "6204兰州大学（甘肃•兰州）@德语",
+    "avg_score": 640
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 640,
+    "rank": 2690,
+    "major": "6204兰州大学（甘肃•兰州）@法学",
+    "avg_score": 641
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 638,
+    "rank": 2885,
+    "major": "6204兰州大学（甘肃•兰州）@思想政治教育",
+    "avg_score": 639
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 610,
+    "rank": 7544,
+    "major": "6405宁夏大学（宁夏•银川）@英语",
+    "avg_score": 611
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 611,
+    "rank": 7474,
+    "major": "6405宁夏大学（宁夏•银川）@阿拉伯语",
+    "avg_score": 612
+  },
+  {
+    "enroll_num": 4,
+    "low_score": 605,
+    "rank": 8677,
+    "major": "6504新疆大学（新疆•乌鲁木齐）@汉语言文学",
+    "avg_score": 608
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 690,
+    "rank": 81,
+    "major": "6501石河子大学（新疆•石河子）@*全额奖学金类",
+    "avg_score": 690
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 684,
+    "rank": 135,
+    "major": "6501石河子大学（新疆•石河子）@*就学奖学金类",
+    "avg_score": 684
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 673,
+    "rank": 390,
+    "major": "6501石河子大学（新疆•石河子）@*人文类",
+    "avg_score": 673
+  },
+  {
+    "enroll_num": 1,
+    "low_score": 676,
+    "rank": 295,
+    "major": "6501石河子大学（新疆•石河子）@*商科类",
+    "avg_score": 676
+  },
+  {
+    "enroll_num": 3,
+    "low_score": 656,
+    "rank": 1177,
+    "major": "8102香港城市大学（香港）@*商学院",
+    "avg_score": 663
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 648,
+    "rank": 1854,
+    "major": "8102香港城市大学（香港）@*人文社会科学院",
+    "avg_score": 653
+  },
+  {
+    "enroll_num": 2,
+    "low_score": 642,
+    "rank": 2476,
+    "major": "8102香港城市大学（香港）@*法律学院",
+    "avg_score": 642
+  }
+]

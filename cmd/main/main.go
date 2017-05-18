@@ -4,28 +4,31 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"strings"
-	"web-go/cmd/mymath"
+
+	"github.com/gorilla/mux"
 )
 
 func main() {
-	http.HandleFunc("/", sayhelloName)       //设置访问的路由
-	err := http.ListenAndServe(":9090", nil) //设置监听的端口
-	if err != nil {
-		log.Fatal("ListenAndServe: ", err)
-	}
-	fmt.Printf("Hello, world.  Sqrt(2) = %v\n", mymath.Sqrt(2))
+	r := mux.NewRouter()
+
+	// r.HandleFunc("/", YourHandler)
+	r.HandleFunc("/articles/{category}/{id:[0-9]+}", ArticleHandler)
+
+	// http.Handle("/", r)
+
+	// Bind to a port and pass our router in
+	log.Fatal(http.ListenAndServe(":8000", r))
 }
 
-func sayhelloName(w http.ResponseWriter, r *http.Request) {
-	r.ParseForm()       //解析参数，默认是不会解析的
-	fmt.Println(r.Form) //这些信息是输出到服务器端的打印信息
-	fmt.Println("path", r.URL.Path)
-	fmt.Println("scheme", r.URL.Scheme)
-	fmt.Println(r.Form["url_long"])
-	for k, v := range r.Form {
-		fmt.Println("key:", k)
-		fmt.Println("val:", strings.Join(v, ""))
-	}
-	fmt.Fprintf(w, "Hello astaxie!") //这个写入到w的是输出到客户端的
+// YourHandler send
+func YourHandler(w http.ResponseWriter, r *http.Request) {
+	w.Write([]byte("Hello word!\n"))
+}
+
+// ArticleHandler is a test router
+func ArticleHandler(w http.ResponseWriter, r *http.Request) {
+	vars := mux.Vars(r)
+	fmt.Println(vars)
+	w.WriteHeader(http.StatusOK)
+	fmt.Fprintf(w, "Category: %v\n", vars["category"])
 }

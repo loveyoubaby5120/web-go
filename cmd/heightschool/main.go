@@ -20,10 +20,10 @@ func main() {
 	// }
 
 	for _, value := range jsonArray {
-		fmt.Println(value.LowScore)
+		fmt.Println(value)
 	}
 
-	WriteScore(jsonArray)
+	// WriteScore(jsonArray)
 }
 
 // WriteScore write hight school score
@@ -33,20 +33,20 @@ func WriteScore(s interface{}) {
 	if err != nil {
 		fmt.Println(err)
 	}
-	jsonutil.WriteJSON("static/predict_num_v2/文一批.json", outJSONArray)
+	jsonutil.WriteJSON("static/constrain_json/文一批.json", outJSONArray)
 }
 
 // GetData get hight school config
 func GetData() ([]int, []format.Condition, error) {
 	var err error
-	scoreArray, err := jsonutil.ReadFileArray("static/predict_num_v2/constrain_json/文一批_一分一段.json")
+	scoreArray, err := jsonutil.ReadFileArray("static/constrain_json/constrain_json/文一批_一分一段.json")
 	if err != nil {
 		fmt.Println("readFile: ", err.Error())
 		return nil, nil, err
 	}
 	fmt.Println("获取全部分数成功: ", len(scoreArray))
 
-	scoreCondition, err = jsonutil.ReadFileJSONArray("static/predict_num_v2/constrain_json/文一批_高考分数.json")
+	scoreCondition, err = jsonutil.ReadFileJSONArray("static/constrain_json/constrain_json/文一批_高考分数.json")
 	if err != nil {
 		fmt.Println("readFile: ", err.Error())
 		return nil, nil, err
